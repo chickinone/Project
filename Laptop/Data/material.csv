@@ -1,0 +1,377 @@
+﻿Link,Kich_thuoc,Chat_lieu,He_thong_pin,He_dieu_hanh,Thoi_gian_ra_mat
+//www.thegioididong.com/laptop/msi-bravo-15-b7ed-r5-010vn,Dài 359 mm - Rộng 259 mm - Dày 24.95 mm - 2.25 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/msi-cyborg-15-a13vek-i7-1423vn,Dài 359.36 mm - Rộng 250.34 mm - Dày 22.9 mm - 1.98 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-rog-strix-g16-g614jv-i7-n3515w,Dài 354 mm - Rộng 264 mm - Dày 30.4 mm - 2.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-x1404za-i3-nk246w,Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - 1.4 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-elitebook-635-aero-g11-r5-a8ws6pt,Dài 297.3 mm - Rộng 211.2 mm - Dày 15.1 mm - 0.985 kg,Vỏ kim loại,"3-cell, 43Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-latitude-5450-ultra-5-l5450125u16512w,Dài 321.35 mm - Rộng 212 mm - Dày 21.04 mm - 1.4 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fc0162tu-ultra-5-ay8x1pa,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/msi-gaming-gf63-thin-12uc-i7-887vn,Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - 1.86 kg,Vỏ kim loại,"3-cell Li-ion, 52.4 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r9-466vn,Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - 2.25 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-p16wd,Dài 358.5 mm - Rộng 235.6 mm - Dày 19 mm - 1.65 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-n5i5530w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2024
+//www.thegioididong.com/laptop/hp-probook-460-g11-ultra-5-a74btpt,Dài 359.4 mm - Rộng 251.1 mm - Dày 17 mm - 1.786 kg,Vỏ kim loại,"3-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i9-ma586ws,Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - 1.7 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/acer-aspire-lite-al14-52m-54cj-i5-nxj39sv002,Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm - 1.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn,Dài 312 mm - Rộng 221 mm - Dày 16.9 mm - 1.48 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn,Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm - 1.62 kg,Vỏ nhựa,47 Wh,Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-aspire-5-a515-58m-79r7-i7-nxkq8sv007,Dài 362.9 mm - Rộng 237.5 mm - Dày 17.9 mm - 1.7 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-victus-15-fb1022ax-r5-94f19pa,Dài 357.9 mm - Rộng 255 mm - Dày 23.5 mm - 2.29 kg,Vỏ nhựa,"3-cell, 52.5Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-swift-go-14-ai-73-53x7-ultra-5-nxkslsv001,Dài 312.9 mm - Rộng 217.9 mm - Dày 14.9 mm - 1.32 kg,Vỏ kim loại - Nhôm,"4-cell, 65Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-pro-48gb-1tb,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.6 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/acer-aspire-lite-16-g2-al16-52p-76du-i7-nxj2ssv005?utm_flashsale=1,Dài 357.6 mm - Rộng 247 mm - Dày 18.9 mm - 1.7 kg,Vỏ nhựa,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-yoga-7-2in1-14iml9-ultra-7-83dj001fvn,Dài 317.72 mm - Rộng 222.13 mm - Dày 16.64 mm - 1.49 kg,Vỏ kim loại - Nhôm,71Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001,Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - 2.5 kg,Vỏ nhựa,"4-cell, 57.5Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/hp-240-g9-i5-ag2j7at,Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.47 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-15iax9e-i5-83lk0079vn,Dài 359.3 mm - Rộng 236 mm - Dày 22.95 mm - 1.77 kg,Vỏ nhựa,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-gf63-thin-12ve-i5-460vn,Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - 1.86 kg,Nắp lưng và chiếu nghỉ tay bằng kim loại,"3-cell Li-ion, 52.4 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-fx507vv-i7-lp151w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-16-x1605va-i5-mb1876ws,Dài 358.7 mm - Rộng 249.5 mm - Dày 19.9 mm - 1.88 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/lg-gram-16z90sp-ultra-7-16z90spkah78a5,Dài 357.7 mm - Rộng 251.6 mm - Dày 12.4 mm - 1.19 kg,Vỏ kim loại Magie,"Li-ion, 77 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8ve-r7-402vn,Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - 2.25 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fa0048au-r7-a19bqpa?utm_flashsale=1,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fc0083tu-ultra-7-a19bspa,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-n5i7305w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2024
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-16gb-256gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/lenovo-thinkbook-14-ultra-7-21mr0072vn,Dài 313.5 mm - Rộng 224 mm - Dày 16.9 mm - 1.38 kg,Vỏ kim loại - Nhôm,45Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-vostro-15-3520-i5-i5u165w11gru?utm_flashsale=1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/acer-aspire-a514-54-5127-i5-nxa28sv007?utm_flashsale=1,Dài 328 mm - Rộng 223 mm - Dày 17.95 mm - 1.46 kg,Vỏ nhựa - nắp lưng bằng kim loại,48Wh,Windows 11 Home SL,2021
+//www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-5-21m7004lvn,Dài 313 mm - Rộng 219.3 mm - Dày 17.99 mm - 1.44 kg,Vỏ kim loại - Nhôm,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-fa506nfr-r7-hn113w,Dài 359 mm - Rộng 256 mm - Dày 24.5 mm - 2.3 kg,Vỏ nhựa,"3-cell, 48Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m70051vn,Dài 313 mm - Rộng 219.3 mm - Dày 17.99 mm - 1.44 kg,Vỏ kim loại - Nhôm,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-pavilion-x360-14-ek2027tu-core-7-9z2v9pa,Dài 322 mm - Rộng 210 mm - Dày 18.9 mm - 1.51 kg,Vỏ nhựa - chiếu nghỉ tay bằng kim loại,"3-cell, 43Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-victus-16-s0078ax-r5-8c5n7pa?utm_flashsale=1,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.31 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-13-inch-m3-16gb-256gb-8gpu,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhôm tái chế 100%,Lên đến 18 giờ,macOS Sonoma,2024
+//www.thegioididong.com/laptop/acer-swift-go-14-ai-73-71zx-ultra-7-nxkslsv002,Dài 312.9 mm - Rộng 217.9 mm - Dày 14.9 mm - 1.32 kg,Vỏ kim loại - Nhôm,"4-cell, 65Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-swift-ai-sf14-51-53p9-ultra-5-nxj2ksv002,Dài 312.4 mm - Rộng 221.2 mm - Dày 15.95 mm - 1.26 kg,Vỏ kim loại,"3-cell Li-ion, 65 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-240-g10-i5-9h2e4pt,Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - 1.36 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-victus-15-fa1139tx-i5-8y6w3pa,Dài 357.9 mm - Rộng 255 mm - Dày 23.5 mm - 2.29 kg,Vỏ nhựa,"3-cell, 52.5Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-16gb-1tb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa506nc-r5-hn017w?utm_flashsale=1,Dài 359 mm - Rộng 256 mm - Dày 24.5 mm - 2.3 kg,Vỏ nhựa,"3-cell, 48Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-pro-24gb-1tb,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.6 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/dell-latitude-3440-i7-71038103?utm_flashsale=1,Dài 359 mm - Rộng 240 mm - Dày 20.44 mm - 1.6 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-latitude-5350-ultra-7-165u-vpro-l5350165u16512w,Dài 305.7 mm - Rộng 207.5 mm - Dày 18.44 mm - 1.23 kg,Vỏ nhựa,"3-cell, 54 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-predator-helios-neo-16s-ai-phn16s-71-94t0-ultra-9-nhqx7sv001,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lg-gram-16z90s-ultra-7-16z90sgah76a5,Dài 355.1 mm - Rộng 242.3 mm - Dày 16.8 mm - 1.199 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-victus-16-r0283tx-i5-ad9t3pa?utm_flashsale=1,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.31 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-zenbook-14-ux3405ca-ultra-7-pz368ws,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.28 kg,Vỏ nhựa,42 Wh,Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn,Dài 360.2 mm - Rộng 236 mm - Dày 17.9 mm - 1.61 kg,Vỏ nhựa - nắp lưng bằng kim loại,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh10-i7-83k1000jvn,Dài 343.4 mm - Rộng 239.5 mm - Dày 17.9 mm - 1.63 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-n3530i7u161w11blufp,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Nhôm - Magie,"3-cell Li-ion, 70 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-zenbook-a14-ux3407qa-x1-26-100-qd299ws,Dài 310.7 mm - Rộng 213.9 mm - Dày 15.9 mm - 0.98 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-32gb-1tb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ kim loại - Nhôm,71Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-yoga-7-2in1-14iml9-ultra-5-83dj00dmvn,Dài 317.72 mm - Rộng 222.13 mm - Dày 16.64 mm - 1.49 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-pro-24gb-512gb?utm_flashsale=1,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.6 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 76Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/asus-tuf-gaming-fx517ze-i5-hn045w,Dài 354 mm - Rộng 251 mm - Dày 20.7 mm - 2 kg,Vỏ nhựa,"3 cell, 41.04 Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/hp-240-g9-i3-6l1x8pa,Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.42 kg,Vỏ kim loại - Nhôm,"4-cell, 72Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-ux5406sa-ultra-7-pv140ws,Dài 310.3 mm - Rộng 214.7 mm - Dày 12.9 mm - 1.2 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-latitude-3450-i5-l34501335u16512w,Dài 322.17 mm - Rộng 219.43 mm - Dày 19.34 mm - 1.5 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-n5i5340w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-7-pp152w,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.2 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-vivobook-s-14-s5406sa-ultra-5-pp060ws,Dài 310.5 mm - Rộng 221.9 mm - Dày 15.9 mm - 1.3 kg,Vỏ kim loại,"3-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-probook-460-g11-ultra-7-a74c0pt?utm_flashsale=1,Dài 359.4 mm - Rộng 251.1 mm - Dày 17 mm - 1.764 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/msi-cyborg-14-a13ve-i7-090vn,Dài 314.7 mm - Rộng 233.5 mm - Dày 22.3 mm - 1.6 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell Li-ion, 73 Wh",Windows 11 Home SL + Office Home & Student vĩnh viễn + Microsoft 365 Basic,2024
+//www.thegioididong.com/laptop/asus-fa401wv-r9-ai-rg062ws,Dài 311 mm - Rộng 227 mm - Dày 19.9 mm - 1.46 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-nitro-v-anv15-51-53ne-i5-nhqnasv002,Dài 362.3 mm - Rộng 239.89 mm - Dày 22.9 ~ 26.9 mm - 2.1 kg,Vỏ kim loại - Nhôm,"3-cell, 55 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,Không có
+//www.thegioididong.com/laptop/dell-xps-13-9350-ultra-7-xpsu7016w1,Dài 295.3 mm - Rộng 199.1 mm - Dày 15.3 mm - 1.19 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14q8x9-x1p-42-100-83hl000kvn,Dài 312 mm - Rộng 221 mm - Dày 16.9 mm - 1.48 kg,Vỏ kim loại,"4-cell, 70Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-rog-flow-z13-gz302ea-ryzen-ai-max-395-ru080ws,Dài 300 mm - Rộng 204 mm - Dày 14.9 mm - 1.2 kg,Nắp lưng và mặt đáy bằng kim loại,"4-cell, 72Wh",Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn,Dài 315.6 mm - Rộng 246.25 mm - Dày 21.8 mm - 1.7 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 99.9Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-prestige-16-ai-b2vmg-ultra-9-288v-016vn,Dài 358.4 mm - Rộng 254.4 mm - Dày 18.95 mm - 1.5 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fa0097au-r5-ay8u7pa,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-l1341w,Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - 1.7 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn,Dài 343.5 mm - Rộng 238.21 mm - Dày 17.42 mm - 1.79 kg,Vỏ nhựa - nắp lưng bằng kim loại,50 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-a515-58gm-53pz-i5-nxkq4sv008,Dài 361 mm - Rộng 237 mm - Dày 17.9 mm - 1.7 kg,Vỏ nhựa,"6-cell Li-ion, 86 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-g15-5530-i9-i9hx161w11gr4060,Dài 357.26 mm - Rộng 274.52 mm - Dày 26.15 mm - 2.81 kg,Vỏ kim loại,Lên đến 18 giờ,macOS,6/2022
+//www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb-256gb-10gpu,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ kim loại - Nhôm,70 Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-yoga-slim-7-15ill9-ultra-7-83hm000gvn,Dài 343.8 mm - Rộng 235.4 mm - Dày 13.9 mm - 1.53 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-ma467w,Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - 1.7 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-16-a1607ca-ultra-5-mb038ws,Không có,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/hp-15s-fq5147tu-i7-7c133pa?utm_flashsale=1,Dài 358.5 mm - Rộng 242 mm - Dày 17.9 mm - 1.69 kg,Vỏ kim loại,"4-cell, 68Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-spectre-x360-14-eu0050tu-ultra-7-a19blpa,Dài 313.7 mm - Rộng 220.4 mm - Dày 16.9 mm - 1.44 kg,Vỏ kim loại,"4-cell, 99.9Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-stealth-a16-ai-a3xvgg-r9-ai-hx-370-208vn,Dài 355.8 mm - Rộng 259.7 mm - Dày 19.95 mm - 2.1 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-fa507uv-r7-lp142w?utm_flashsale=1,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00dbvn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-cyborg-15-a13vfk-i7-876vn,Dài 359.36 mm - Rộng 250.34 mm - Dày 22.9 mm - 1.98 kg,Vỏ nhựa,"3-cell, 48Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-fa506ncr-r7-hn097w,Dài 359 mm - Rộng 256 mm - Dày 24.5 mm - 2.3 kg,Vỏ nhôm tái chế 100%,Lên đến 18 giờ,macOS Sonoma,2024
+//www.thegioididong.com/laptop/macbook-air-15-inch-m3-2024-16gb-256gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ nhựa,"3-cell Li-ion, 52.4 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-thin-15-b12uc-i5-2045vn,Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - 1.86 kg,Vỏ kim loại - Nhôm,45Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-thinkbook-14-g6-i7-21kg00bqvn,Dài 313.5 mm - Rộng 224 mm - Dày 16.9 mm - 1.38 kg,Vỏ kim loại,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-elitebook-630-g10-i7-873f2pa?utm_flashsale=1,Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - 1.22 kg,Vỏ nhựa - nắp lưng bằng kim loại,45Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn,Dài 356 mm - Rộng 253.5 mm - Dày 17.5 mm - 1.7 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-24gb-512gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ nhựa - chiếu nghỉ tay bằng kim loại,"3-cell, 43Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-pavilion-x360-14-ek2024tu-core-5-9z2v6pa,Dài 322 mm - Rộng 210 mm - Dày 18.9 mm - 1.51 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-pro-48gb-512gb,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.6 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-vostro-3530-i5-80gg93,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ kim loại - Nhôm,99.9 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-legion-pro-7-16irx9h-i9-83de001mvn,Dài 363.5 mm - Rộng 262.1 mm - Dày 25.9 mm - 2.62 kg,Vỏ kim loại,"3-cell Li-ion, 65 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-swift-ai-sf14-51-75vp-ultra-7-nxj2ksv001,Dài 312.4 mm - Rộng 221.2 mm - Dày 15.95 mm - 1.26 kg,Nắp lưng và chiếu nghỉ tay bằng kim loại,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-16-5640-core-7-n5640c7u161w11ibu,Dài 356.78 mm - Rộng 249.52 mm - Dày 17.37 mm - 1.98 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/gigabyte-g5-mf5-rc555-i5-9rc55mf5feiaa1vn0c0,Dài 360 mm - Rộng 238 mm - Dày 22.7 mm - 2.115 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-16gb-512gb,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.55 kg,Mặt trên Sợi Carbon - Mặt dưới nhôm,58 Wh,Windows 11 Pro,2024
+//www.thegioididong.com/laptop/lenovo-thinkpad-t14s-ultra-5-21ls005rvn,Dài 313.6 mm - Rộng 219.4 mm - Dày 16.9 mm - 1.24 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-nitro-v-anv15-51-57b2-i5-nhqn8sv001?utm_flashsale=1,Dài 362.3 mm - Rộng 239.89 mm - Dày 22.9 ~ 26.9 mm - 2.1 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-32gb-1tb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-240-g8-i3-6l1a2pa?utm_flashsale=1,Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.4 kg,Vỏ kim loại,"3-cell, 51Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-probook-450-g10-i7-873d3pa?utm_flashsale=1,Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - 1.79 kg,Vỏ kim loại,"4-cell, 90 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-creator-z17-hx-studio-a14vgt-i7-272vn,Dài 382 mm - Rộng 260 mm - Dày 19 mm - 2.49 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/acer-nitro-v-15-anv15-41-r2up-r5-nhqpgsv004,Dài 362.3 mm - Rộng 239.89 mm - Dày 23.5 mm - 2.1 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 56Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-fx507zc4-i7-hn181w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/lenovo-loq-15irx9-i7-83dv00ugvn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ kim loại,Lên đến 18 giờ,macOS,6/2022
+//www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb-256gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ kim loại Magie,"Li-ion, 77 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lg-gram-17z90s-ultra-7-17z90sgah78a5,Dài 378.8 mm - Rộng 258.8 mm - Dày 17.8 mm - 1.35 kg,Vỏ nhựa,"3-Cell, 39.3 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/msi-modern-15-b12mo-i7-487vn,Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - 1.7 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-zenbook-14-oled-i5-km657w?utm_flashsale=1,Dài 313.6 mm - Rộng 220.6 mm - Dày 16.9 mm - 1.39 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14ahp10-r7-83hv001mvn,Không có,Vỏ nhựa,"6-cell Li-ion, 83 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-omen-16-xf0071ax-r7-8w946pa,Dài 369 mm - Rộng 259.4 mm - Dày 23.5 mm - 2.37 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-32gb-512gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,Không có
+//www.thegioididong.com/laptop/asus-zenbook-14-oled-um3406ka-r7-ai-350-pp555ws,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.2 kg,Vỏ nhựa,"4-cell, 65Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-creator-m16-hx-c14vfg-i7-040vn,Dài 359 mm - Rộng 266.44 mm - Dày 21.81 mm - 2.38 kg,Nhôm - Magie,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn,Dài 299 mm - Rộng 210 mm - Dày 16.9 mm - 0.99 kg,Vỏ nhôm tái chế 100%,"Li-Po, 100 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/macbook-pro-16-inch-m4-pro-24gb-512gb,Dài 355.7 mm - Rộng 248.1 mm - Dày 16.8 mm - 2.14 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n3520i5u165w11blufp,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-15iax9e-i5-83lk0036vn,Dài 359.3 mm - Rộng 236 mm - Dày 22.95 mm - 1.77 kg,Vỏ nhựa - nắp lưng bằng kim loại,80 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn,Dài 359.7 mm - Rộng 260.5 mm - Dày 21.9 mm - 2.3 kg,Vỏ nhựa,"3-cell, 45Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-modern-15-f13mg-i5-082vn,Dài 358.9 mm - Rộng 235.9 mm - Dày 19.9 mm - 1.7 kg,Vỏ nhựa,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-lite-16-g2-al16-52p-572a-i5-nxj2ssv004,Dài 357.6 mm - Rộng 247 mm - Dày 18.9 mm - 1.7 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/msi-katana-15-b13vfk-i7-676vn,Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - 2.25 kg,Vỏ nhựa - nắp lưng bằng kim loại,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-16irh10-i5-83k20003vn,Dài 360 mm - Rộng 251 mm - Dày 17.9 mm - 1.73 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-victus-16-s0173ax-r5-a9lg9pa?utm_flashsale=1,Dài 369 mm - Rộng 259.4 mm - Dày 22.9 mm - 2.31 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-n5i7301w1,Không có,Nhôm - Magie,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-zenbook-duo-ux8406ca-ultra-9-pz109ws,Dài 313.5 mm - Rộng 217.9 mm - Dày 19.9 mm - 1.35 kg,Vỏ nhựa,"4-cell Li-ion, 99 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/gigabyte-aorus-16x-x6lag-i7-9rx6lasgddjixdvn010,Dài 356 mm - Rộng 254 mm - Dày 27 mm - 2.345 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/dell-inspiron-3530-i5-1335u-i5u085w11blu,Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 ~ 18.99 mm - 1.66 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/macbook-pro-14-nano-m4-pro-24-512,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.6 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-zenbook-14-ux3405ca-ultra-9-pz204ws,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.28 kg,Vỏ kim loại - Nhôm,"3-cell Li-ion, 70 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-s5507qa-x1e-78-100-ma090ws,Dài 352.6 mm - Rộng 226.9 mm - Dày 15.9 mm - 1.42 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-n3530i5u165w11slu,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/msi-vector-16-hx-ai-a2xwig-ultra-9-062vn,Không có,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-vostro-15-3520-i5-v3520i5u165w11gru,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36mh-i3-nxktvsv001?utm_flashsale=1,Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm - 1.5 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-71043885,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-16-x1605va-i7-mb1875ws,Dài 358.7 mm - Rộng 249.5 mm - Dày 19.9 mm - 1.88 kg,Vỏ nhựa,38Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-15-fd0303tu-i3-a2nl4pa,Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm - 1.59 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-thinkpad-v14-i7-83a00012vn?utm_flashsale=1,Dài 324.2 mm - Rộng 215.2 mm - Dày 19.9 mm - 1.43 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-14-5440-i5-ndy5v1,Không có,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/dell-inspiron-16-5640-core-7-khpf5,Dài 356.7 mm - Rộng 249.5 mm - Dày 19 mm - 1.87 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-32gb-256gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-x1404za-i5-nk376w,Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - 1.4 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-32gb-512gb,Không có,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell Li-ion, 52.4 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-x1504va-nj023w?utm_flashsale=1,Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - 1.7 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,Không có
+//www.thegioididong.com/laptop/msi-thin-15-b12ucx-i5-2046vn,Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - 1.86 kg,Vỏ kim loại,Lên đến 18 giờ,macOS,6/2022
+//www.thegioididong.com/laptop/dell-inspiron-7440-core-5-n4i5006w1,Dài 314 mm - Rộng 226.15 mm - Dày 18.9 mm - 1.74 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-13-m2-24gb-512gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa,"3-cell, 63Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-nitro-v-anv15-51-55ca-i5-nhqn8sv004,Dài 362.3 mm - Rộng 239.89 mm - Dày 26.9 mm - 2.1 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-14x-oled-k3405vc-i5-km006w?utm_flashsale=1,Dài 317.1 mm - Rộng 222.5 mm - Dày 18.9 mm - 1.4 kg,Vỏ nhựa,"4-cell, 65Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-raider-18-hx-ai-a2xwig-ultra-9-033vn,Không có,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-gaming-sword-16-hx-b14vfkg-i7-045vn,Dài 359 mm - Rộng 266.4 mm - Dày 27.7 mm - 2.3 kg,Vỏ nhựa - chiếu nghỉ tay bằng kim loại,"3 cell, 41.04 Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn,Dài 313.4 mm - Rộng 246.5 mm - Dày 18.95 mm - 1.7 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh10-i5-83k1000hvn,Dài 343.4 mm - Rộng 239.5 mm - Dày 17.9 mm - 1.63 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-pavilion-15-eg2088tu-i7-7c0r0pa?utm_flashsale=1,Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - 1.74 kg,Vỏ nhựa - nắp lưng bằng kim loại,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-x1504va-i5-nj025w?utm_flashsale=1,Không có,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i7-71053682,Không có,Vỏ nhựa - nắp lưng bằng kim loại,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh10-i7-83k1000fvn,Dài 343.4 mm - Rộng 239.5 mm - Dày 17.9 mm - 1.63 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/asus-g614ju-i7-n3206w,Dài 354 mm - Rộng 264 mm - Dày 30.4 mm - 2.5 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-5-2in1-14q8x9-x1p-42-100-83gh001fvn,Dài 313 mm - Rộng 227 mm - Dày 17.5 mm - 1.49 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-16gb-512gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ kim loại,"3-cell, 43Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/gigabyte-g5-mf5-rc555-i7-9rc55mf5fjiinivn000,Dài 360 mm - Rộng 238 mm - Dày 22.7 mm - 2.124 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/hp-gaming-victus-16-r0130tx-i5-8c5n5pa?utm_flashsale=1,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.34 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-elitebook-635-aero-g11-r7-a8ws7pt,Dài 297.3 mm - Rộng 211.2 mm - Dày 15.1 mm - 1 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-24gb-512gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/acer-aspire-7-a715-76-53pj-i5-nhqgesv007?utm_flashsale=1,Dài 362.3 mm - Rộng 237.4 mm - Dày 19.9 mm - 2.1 kg,Vỏ kim loại - Nhôm,"4-cell, 78.5Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/hp-gaming-victus-16-s0077ax-r7-8c5n6pa?utm_flashsale=1,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.34 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-n5i7240w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-zenbook-s16-um5606ka-r7-ai-350-rk113ws,Dài 353.6 mm - Rộng 243 mm - Dày 12.9 mm - 1.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-thin-15-b13ucx-i5-2080vn,Không có,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2022
+//www.thegioididong.com/laptop/hp-victus-16-r0227tx-i5-9q978pa,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.33 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-lite-14-51m-59bn-i5-nxktxsv001,Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm - 1.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 53Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-71027003?utm_flashsale=1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/asus-rog-strix-g16-g614ju-i7-n4450w,Dài 354 mm - Rộng 264 mm - Dày 30.4 mm - 2.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-aspire-16-ai-a16-71m-71u7-ultra-7-nxj4ysv002,Dài 359.7 mm - Rộng 253.22 mm - Dày 17.9 mm - 1.64 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-16gb-256gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 50Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507vu-i7-lp167w?utm_flashsale=1,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-16gb-512gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-k3605zc-i5-rp629w?utm_flashsale=1,Dài 358.6 mm - Rộng 249.1 mm - Dày 18.9 mm - 1.8 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-5-2in1-14irh9-i5-83kx003wvn,Dài 313 mm - Rộng 227 mm - Dày 17.5 mm - 1.5 kg,Vỏ nhựa,"3-cell Li-ion, 70 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-245-g10-r5-a20tdpt,Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - 1.36 kg,Vỏ kim loại,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-gaming-vivobook-k3605zu-i5-rp296w?utm_flashsale=1,Dài 358.6 mm - Rộng 249.1 mm - Dày 18.9 mm - 1.8 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-vivobook-s-16-s5606ca-ultra-5-ri114ws,Dài 353.6 mm - Rộng 246.9 mm - Dày 15.9 mm - 1.5 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa507nv-r7-lp031w?utm_flashsale=1,Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - 2.2 kg,Hợp kim Nhôm-Carbon,"3-cell, 55 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-x1404va-i5-nk771ws,Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - 1.4 kg,Vỏ kim loại - Nhôm,60 Wh,Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83jc003yvn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ kim loại - Nắp lưng bằng nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-xps-13-9340-ultra-7-hxrgt2,Dài 295.3 mm - Rộng 199 mm - Dày 15.3 mm - 1.17 kg,Vỏ kim loại - Nhôm,73Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-oled-14irh10-i5-83hr0001vn,Dài 313.4 mm - Rộng 222 mm - Dày 16.9 mm - 1.39 kg,Nắp lưng và chiếu nghỉ tay bằng kim loại,"3-cell Li-ion, 52.4 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-pavilion-15-eg3095tu-i5-8c5l6pa?utm_flashsale=1,Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - 1.74 kg,Mặt A - Magie và Mặt C+D - Aluminum,"Li-ion, 72 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-yoga-pro-7-14imh9-ultra-7-83e2005dvn,Dài 325.5 mm - Rộng 226.49 mm - Dày 16.6 mm - 1.59 kg,Vỏ nhựa,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn,Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - 1.86 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/lg-gram-14z90s-ultra-5-14z90sgah55a5,Dài 312 mm - Rộng 214.3 mm - Dày 16.9 mm - 1.12 kg,Vỏ nhựa - nắp lưng bằng kim loại,56.6Wh,Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-loq-15iax9e-i5-83lk000bvn,Dài 359.3 mm - Rộng 236 mm - Dày 22.95 mm - 1.77 kg,Vỏ kim loại,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-16gb-1tb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn,Dài 312 mm - Rộng 221 mm - Dày 17.9 mm - 1.46 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/msi-prestige-13-ai-a2vmg-ultra-7-258v-040vn,Dài 299 mm - Rộng 210 mm - Dày 16.9 mm - 0.99 kg,Vỏ nhựa,"6-cell Li-ion, 83 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-go-15-e1504fa-r5-nj776w,Dài 360.3 mm - Rộng 232.5 mm - Dày 17.9 mm - 1.63 kg,Vỏ kim loại - Nhôm,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-14-x1404va-i5-nk050w,Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - 1.4 kg,Vỏ nhựa,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-omen-16-xf0070ax-r9-8w945pa,Dài 369 mm - Rộng 259.4 mm - Dày 23.5 mm - 2.37 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-thinkpad-e16-ultra-5-21ma0049vn,Dài 356.1 mm - Rộng 247.7 mm - Dày 19.85 mm - 1.81 kg,Vỏ kim loại - Nhôm,45Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-v14-core-5-83hd0001vn?utm_flashsale=1,Dài 324.2 mm - Rộng 215.2 mm - Dày 17.9 mm - 1.37 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-p16wd2,Dài 358.5 mm - Rộng 235.6 mm - Dày 19 mm - 1.65 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-thinkbook-14-g7-ultra-7-21mr0070vn,Dài 313.5 mm - Rộng 224 mm - Dày 16.9 mm - 1.38 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn?utm_flashsale=1,Dài 312 mm - Rộng 221 mm - Dày 16.9 mm - 1.48 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-predator-helios-18-ai-ph18-73-93p0-ultra-9-nhqvysv001,Không có,Hợp kim Nhôm-Carbon,"3-cell, 55 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-asus-vivobook-15-oled-a1505za-i5-ma415w,Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - 1.7 kg,Mặt trên Sợi Carbon - Mặt dưới nhôm,54.7 Wh,Windows 11 Pro,2024
+//www.thegioididong.com/laptop/hp-240-g9-i3-ag2j5at,Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.42 kg,Nắp lưng và chiếu nghỉ tay bằng kim loại,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/dell-xps-13-9340-ultra-7-hxrgt,Dài 295.3 mm - Rộng 199 mm - Dày 15.3 mm - 1.17 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-7-21ms007hvn,Dài 356 mm - Rộng 253.5 mm - Dày 17.5 mm - 1.7 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2022
+//www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-7-21lu004lvn,Dài 301.7 mm - Rộng 214.8 mm - Dày 15.95 mm - 1.17 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/dell-inspiron-14-5430-i5-i5p165w11sl2050?utm_flashsale=1,Dài 314 mm - Rộng 226.6 mm - Dày 16.49 ~ 18.52 mm - 1.78 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-x1504za-i5-nj1608w,Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - 1.7 kg,Vỏ nhựa,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5u085w11blu?utm_flashsale=1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa - nắp lưng bằng kim loại,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-71043888,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-15-fd1063tu-ultra-5-9z2y1pa,Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm - 1.65 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-fa507nvr-r7-lp007w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ kim loại,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/lenovo-legion-5-15irx9-i7-83jj000fvn,Dài 358.8 mm - Rộng 261.4 mm - Dày 24.65 mm - 2.32 kg,Vỏ nhựa - nắp lưng bằng kim loại,80 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-5-a514-56p-54tn-i5-nxkhrsv004?utm_flashsale=1,Dài 318.8 mm - Rộng 225.5 mm - Dày 17.99 mm - 1.5 kg,Vỏ nhựa,"4-cell, 57.5Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r7-465vn,Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - 2.25 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-vivobook-s-16-m5606ka-r7-ai-350-ri016ws,Dài 353.6 mm - Rộng 246.9 mm - Dày 15.9 mm - 1.5 kg,Vỏ nhựa - chiếu nghỉ tay bằng kim loại,"3 cell, 41.04 Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0047vn,Dài 363.4 mm - Rộng 261.75 mm - Dày 26.95 mm - 2.5 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/acer-nitro-an515-58-773y-i7-12700h-nhqfksv00116g,Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - 2.5 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-vivobook-16-x1605va-i5-mb360w,Dài 358.7 mm - Rộng 249.5 mm - Dày 19.9 mm - 1.88 kg,Vỏ nhựa,38Wh,Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-pavilion-15-eg2082tu-i5-7c0q5pa,Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - 1.72 kg,Vỏ nhựa,"2 cell Li-ion, 40.2 Wh",Chrome OS,2023
+//www.thegioididong.com/laptop/asus-zenbook-14-ux3405ca-ultra-5-pz187ws,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.28 kg,Vỏ nhựa,52.5 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-14-a1405va-i3-ly097w?utm_flashsale=1,Dài 317.1 mm - Rộng 222 mm - Dày 19.9 mm - 1.6 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/lenovo-v15-g4-iru-i5-83a1000lvn?utm_flashsale=1,Dài 359.2 mm - Rộng 235.8 mm - Dày 19.9 mm - 1.67 kg,Vỏ nhôm tái chế 100%,"Li-Po, 100 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe310xda-n4500,Dài 287.9 mm - Rộng 202.3 mm - Dày 15.9 mm - 1.06 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-flex-5-14abr8-r7-7730u-82xx00dlvn,Dài 313.1 mm - Rộng 224.9 mm - Dày 17.8 mm - 1.55 kg,Vỏ kim loại - Nhôm,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-32gb-256gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ kim loại - Nhôm,73Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/macbook-pro-16-inch-m4-pro-24gb-1tb,Dài 355.7 mm - Rộng 248.1 mm - Dày 16.8 mm - 2.14 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/hp-15-fc0085au-r5-a6vv8pa,Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm - 1.59 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m7004uvn,Dài 313 mm - Rộng 219.3 mm - Dày 17.99 mm - 1.44 kg,Vỏ nhựa,"4-cell, 70Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-yoga-pro-7-14imh9-ultra-7-83e2006mvn,Dài 325.5 mm - Rộng 226.49 mm - Dày 16.6 mm - 1.59 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/dell-inspiron-14-5440-core-7-n4i7204w1,Dài 314 mm - Rộng 226.15 mm - Dày 18.07 mm - 1.67 kg,Vỏ nhựa,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-pro-14-inch-m4-16gb-1tb,Không có,Vỏ kim loại,"3-cell, 56Wh",Windows 11 Pro,2024
+//www.thegioididong.com/laptop/hp-victus-16-r0228tx-i5-9q979pa,Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - 2.33 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL + Microsoft 365 Personal,2024
+//www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36pn-i3-nxktwsv001?utm_flashsale=1,Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm - 1.5 kg,Vỏ kim loại - Nhôm,73Wh,Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-v15-g5-irl-core-5-83hf0000vn?utm_flashsale=1,Dài 359.2 mm - Rộng 235.8 mm - Dày 18.3 mm - 1.61 kg,Vỏ hợp kim Nhôm,50 Wh,Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/hp-elitebook-x360-830-g11-ultra-7-a7rc0pt,Dài 300 mm - Rộng 216.1 mm - Dày 16.2 mm - 1.4 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fc0153tu-ultra-7-ay8v4pa?utm_flashsale=1,Dài 313.4 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ kim loại,"3-cell, 51Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-yoga-pro-7-14asp9-r9-83hn0022vn,Dài 325.5 mm - Rộng 226.49 mm - Dày 16.6 mm - 1.54 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/acer-swift-go-14-41-r251-r5-nxkg3sv005,Dài 321.71 mm - Rộng 211.72 mm - Dày 15.9 mm - 1.25 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2024
+//www.thegioididong.com/laptop/asus-rog-strix-g16-g614ju-i7-n3509w,Dài 354 mm - Rộng 264 mm - Dày 30.4 mm - 2.5 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2025
+//www.thegioididong.com/laptop/hp-probook-450-g10-i7-9h8h1pt?utm_flashsale=1,Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - 1.72 kg,Vỏ kim loại - Nhôm,70 Wh,Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-24gb-1tb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i7-n3520i7u165w11blufp,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-x1504va-i3-nj1634w?utm_flashsale=1,Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - 1.7 kg,Vỏ kim loại - Nhôm,99.9 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-oled-15arp10-r7-83j3001dvn,Dài 339.33 mm - Rộng 236 mm - Dày 15.6 mm - 1.49 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-s-16-s5606ca-ultra-7-ri115ws,Không có,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/acer-nitro-v-16-propanel-anv16-41-r6zy-r5-nhqp2sv002,Dài 361.8 mm - Rộng 278.4 mm - Dày 25.46 mm - 2.5 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/lenovo-legion-7-16irx9-i9-83fd004mvn,Dài 357.7 mm - Rộng 262.5 mm - Dày 19.8 mm - 2.24 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 56Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-gaming-tuf-f15-fx507zc4-i5-hn330w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,71Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i3-nj102w,Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - 1.7 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i7-25p2315,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.65 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zc4-i5-hn229w?utm_flashsale=1,Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - 2.2 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2022
+//www.thegioididong.com/laptop/lenovo-thinkbook-16-g6-i5-21kh00q0vn,Dài 356 mm - Rộng 253.5 mm - Dày 17.5 mm - 1.7 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-pavilion-15-eg2081tu-i5-7c0q4pa,Không có,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,Không có
+//www.thegioididong.com/laptop/acer-aspire-a315-44p-r9w8-r7-nxksjsv002,Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - 1.7 kg,Mặt trên Sợi Carbon - Mặt dưới nhôm,57Wh,Windows 11 Pro,2024
+//www.thegioididong.com/laptop/dell-vostro-15-3520-i5-5m2tt2,Dài 358.5 mm - Rộng 235.56 mm - Dày 19 mm - 1.67 kg,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/hp-15-fd0015tu-i7-a19c5pa,Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm - 1.59 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i7-n5i7125w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.66 kg,Vỏ nhựa,"3-cell, 40Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/lenovo-thinkpad-x1-carbon-ultra-7-21kc00agvn,Dài 312.8 mm - Rộng 214.75 mm - Dày 14.96 mm - 1.09 kg,Vỏ kim loại - Nhôm,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-inspiron-14-5440-core-7-7fn5j,Dài 314 mm - Rộng 226.15 mm - Dày 18.7 mm - 1.56 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-15-fd0234tu-i5-9q969pa,Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm - 1.59 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-3-a315-59-5283-i5-nxk6tsv00b?utm_flashsale=1,Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - 1.7 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 53Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-elitebook-630-g10-i5-19j0b4pt?utm_flashsale=1,Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - 1.22 kg,Vỏ nhựa,"3-cell, 53.5Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-stealth-18-hx-ai-a2xwig-ultra-9-017vn,Không có,Vỏ kim loại,"3-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da006tvn,Dài 312 mm - Rộng 221 mm - Dày 16.9 mm - 1.48 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/acer-aspire-16-ai-a16-71m-59l5-ultra-5-nxj4ysv001,Dài 359.7 mm - Rộng 253.22 mm - Dày 17.9 mm - 1.64 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/msi-katana-15-b13udxk-i7-2077vn,Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - 2.25 kg,Vỏ nhựa,"3-Cell, 39.3 Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/hp-elitebook-630-g11-ultra-7-a7lc5pt,Dài 303.1 mm - Rộng 215.1 mm - Dày 17 mm - 1.347 kg,Vỏ nhựa,"3-cell, 50Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-k3605zf-i5-rp745w,Dài 358.6 mm - Rộng 249.1 mm - Dày 18.9 mm - 1.8 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-24gb-256gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ kim loại - Nắp lưng bằng nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-pro-14-nano-m4-16-512,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.55 kg,Vỏ nhôm tái chế 100%,"Li-Po, 66.5 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/msi-modern-14-c13m-i5-611vn,Dài 319.9 mm - Rộng 223 mm - Dày 19.35 mm - 1.4 kg,Vỏ nhựa,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-3-a314-42p-r3b3-r7-nxksfsv001?utm_flashsale=1,Dài 318.2 mm - Rộng 225.5 mm - Dày 17.8 mm - 1.4 kg,Vỏ kim loại - Nhôm,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w,Dài 310.5 mm - Rộng 221.9 mm - Dày 15.9 mm - 1.3 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2022
+//www.thegioididong.com/laptop/hp-pavilion-15-eg3094tu-i5-8c5l5pa?utm_flashsale=1,Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - 1.69 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/macbook-air-15-inch-m4-24gb-256gb,Dài 340.4 mm - Rộng 237.6 mm - Dày 11.5 mm - 1.51 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2023
+//www.thegioididong.com/laptop/asus-fa507nur-r7-lp057w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-thinkpad-e16-ultra-7-21ma004pvn,Dài 356.1 mm - Rộng 247.7 mm - Dày 19.85 mm - 1.81 kg,Vỏ kim loại - Nhôm,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-25p231,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ kim loại - Nắp lưng bằng nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-vostro-15-3520-i5-v5i5610w1,Dài 358.5 mm - Rộng 234.9 mm - Dày 17.5 mm - 1.85 kg,Vỏ nhựa,54.7 Wh,Windows 11 Pro,2024
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5052w1,Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 mm - 1.66 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/asus-fx507vu-i7-lp186w,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell Li-ion, 58 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-elitebook-630-g10-i5-9j0b5pt,Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - 1.22 kg,Vỏ nhựa - chiếu nghỉ tay bằng kim loại,"4-cell, 64 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/hp-pavilion-15-eg3093tu-i5-8c5l4pa,Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - 1.69 kg,Vỏ kim loại,"3-cell, 42Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-5-21lu004nvn,Dài 301.7 mm - Rộng 214.8 mm - Dày 15.95 mm - 1.17 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-14-a1407ca-ultra-5-ly008ws,Dài 315.2 mm - Rộng 223.4 mm - Dày 17.9 mm - 1.46 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-swift-lite-14-ai-sfl14-51m-56hs-ultra-5-nxj1hsv002,Dài 314.4 mm - Rộng 221.9 mm - Dày 17.5 mm - 1.27 kg,Vỏ nhựa,"4-cell, 57.5Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/dell-inspiron-7440-core-7-n7440c7u161w11ibu,Dài 314 mm - Rộng 226.15 mm - Dày 18.9 mm - 1.71 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-elitebook-630-g10-i7-9h1n9pt?utm_flashsale=1,Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - 1.28 kg,Mặt A - Magie và Mặt C+D - Aluminum,"Li-ion, 72 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fc0094tu-ultra-5-a19c4pa?utm_flashsale=1,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ nhựa,60 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-titan-18-hx-ai-a2xwig-ultra-9-090vn,Không có,Vỏ nhựa,"4-cell, 54Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-773y-i7-nhqfksv001,Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - 2.5 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-loq-15arp9-r7-83jc0040vn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ nhựa,"3-cell, 41Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/lg-gram-14z90s-ultra-7-14z90sgah75a5,Dài 312 mm - Rộng 214.3 mm - Dày 16.9 mm - 1.12 kg,Vỏ kim loại,"3-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs001qvn,Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm - 2.38 kg,Vỏ kim loại,"6-cell Li-ion, 71 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/gigabyte-g6-kf-rc56-i7-9rc56kf0hjjanivn000,Dài 359.5 mm - Rộng 263.8 mm - Dày 26 mm - 2.275 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n3520-i5u085w11slu,Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - 1.9 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 48Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-14irh10-i5-83k0000avn,Không có,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-240-g9-i5-6l1y2pa,Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.47 kg,Vỏ kim loại,"3-cell Li-ion, 59 Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/hp-elitebook-x360-830-g11-ultra-5-a7rb9pt,Dài 300 mm - Rộng 216.1 mm - Dày 16.2 mm - 1.4 kg,Vỏ nhựa,"2 cell Li-ion, 42.3 Wh",Chrome OS,2023
+//www.thegioididong.com/laptop/hp-omen-14-fb0135tx-ultra-7-ay8v1pa,Dài 313 mm - Rộng 233.5 mm - Dày 16.9 mm - 1.63 kg,Vỏ nhôm tái chế 100%,"Li-Po, 53.8 Wh",macOS Sequoia,03/2025
+//www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa507nu-r5-lp105w?utm_flashsale=1,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ nhựa,"4-cell, 57.5Wh",Windows 11 Home SL,2022
+//www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa506nf-r5-hn012w?utm_flashsale=1,Dài 359 mm - Rộng 256 mm - Dày 24.5 mm - 2.3 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 90Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-9-pp475w?utm_flashsale=1,Dài 312.4 mm - Rộng 220.1 mm - Dày 14.9 mm - 1.2 kg,Vỏ nhôm tái chế 100%,"Li-Po, 100 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/hp-envy-x360-14-fa0050au-r5-a29h8pa,Dài 313.3 mm - Rộng 218.9 mm - Dày 16.9 mm - 1.39 kg,Vỏ kim loại,"3-cell, 51Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe340xda-n4500,Dài 327.1 mm - Rộng 225.6 mm - Dày 15.9 mm - 1.145 kg,Vỏ kim loại nguyên khối,Lên đến 18 giờ,macOS,2020
+//www.thegioididong.com/laptop/macbook-air-13-inch-m4-24gb-1tb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ nhựa,"3-cell, 42Wh",Windows 11 Home SL + Office Home & Student 2024 vĩnh viễn + Microsoft 365 Basic,2025
+//www.thegioididong.com/laptop/acer-nitro-5-an515-58-769j-i7-nhqfhsv003,Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - 2.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,80 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn,Dài 313.4 mm - Rộng 246.5 mm - Dày 18.95 mm - 1.7 kg,Vỏ nhựa,47 Wh,Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-pro-16-inch-m4-max-36gb-1tb,Dài 355.7 mm - Rộng 248.1 mm - Dày 16.8 mm - 2.15 kg,Vỏ nhựa,"4-cell, 57Wh",Windows 11 Home SL,Không có
+//www.thegioididong.com/laptop/hp-probook-450-g10-i5-873d1pa?utm_flashsale=1,Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - 1.79 kg,Vỏ nhôm tái chế 100%,Lên đến 18 giờ,macOS Sonoma,2024
+//www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa,Dài 304.1 mm - Rộng 212.4 mm - Dày 4.1 mm đến 16.1 mm - 1.29 kg,Vỏ nhựa - nắp lưng bằng kim loại,"4-cell, 56Wh",Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/asus-vivobook-16-m1607ka-r7-ai-350-mb091ws,Dài 357 mm - Rộng 250.6 mm - Dày 19.9 mm - 1.88 kg,Vỏ nhôm tái chế 100%,"Li-Po, 72.4 Wh",macOS Sequoia,10/2024
+//www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0046vn,Dài 363.4 mm - Rộng 261.75 mm - Dày 26.95 mm - 2.5 kg,Vỏ nhựa - nắp lưng bằng kim loại,"3-cell, 50Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn,Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm - 1.62 kg,Vỏ nhựa,47 Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-nitro-v-15-anv15-41-r1jy-r5-nhqpfsv001,Dài 362.3 mm - Rộng 239.89 mm - Dày 23.5 mm - 2.1 kg,Vỏ kim loại,"3-cell, 51Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-air-13-inch-m3-2024-16gb-256gb,Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - 1.24 kg,Vỏ kim loại - Nhôm,"4-cell Li-ion, 75 Wh",Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn,2024
+//www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zc4-i7-hni7mw,Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - 2.2 kg,Vỏ kim loại - Nắp lưng bằng nhựa,"3-cell, 41Wh",Windows 11 Home SL,2023
+//www.thegioididong.com/laptop/macbook-pro-14-nano-m4-max-36-1t,Dài 312.6 mm - Rộng 221.2 mm - Dày 15.5 mm - 1.62 kg,Vỏ kim loại - Nhôm,57Wh,Windows 11 Home SL,2024
+//www.thegioididong.com/laptop/acer-aspire-5-a515-58m-56yx-i5-nxkq8sv005,Dài 362.9 mm - Rộng 237.5 mm - Dày 17.9 mm - 1.7 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn,Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm - 1.62 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-probook-450-g10-i5-9h1n5pt?utm_flashsale=1,Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - 1.72 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-s-14-s5406sa-ultra-7-pp059ws,Dài 310.5 mm - Rộng 221.9 mm - Dày 15.9 mm - 1.3 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-pavilion-15-eg3091tu-i7-8c5l2pa,Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - 1.69 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn,Dài 312 mm - Rộng 221 mm - Dày 16.9 mm - 1.48 kg,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/macbook-air-13-inch-m2-16gb-512gb-70w,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-thinkpad-x1-carbon-ultra-7-21kc008nvn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-legion-5-16irx9-i7-83dg0051vn?utm_flashsale=1,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-yoga-7-14imh9-ultra7-83cv001vvn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505za-i5-l1337w?utm_flashsale=1,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-71043883,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-aspire-lite-al16-51p-596h-i5-nxkwzsv002,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-victus-16-r0127tx-i7-8c5n2pa,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-ideapad-5-2in1-14irh9-i7-83kx003xvn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-240-g9-i5-9t2g2pt,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-76g-5806-i5-nhqmfsv002,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-g15-5530-i7-i7hx161w11gr4060,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-predator-helios-18-ai-ph18-73-98aq-ultra-9-nhqvwsv001,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/macbook-pro-16-inch-m4-pro-48gb-512gb,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-victus-16-s0138ax-r7-9q985pa,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-latitude-3440-i5-l3440i51235u16g512g,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-71026454,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-vostro-3520-i5-71030559,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-628vn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-predator-helios-neo-16s-ai-phn16s-71-95ms-ultra-9-nhqx7sv002,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8vf-r7-419vn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-53m7-i5-nhqlusv005,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/lenovo-legion-slim-5-16ahp9-r7-83dh003avn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5057w1,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i5-nj1546w,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/acer-nitro-v-anv15-51-58an-i5-nhqnasv001,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/hp-envy-x360-14-fc0089tu-ultra-7-a19bzpa,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/msi-thin-15-b13uc-i7-1411vn,Không có,Không có,Không có,Không có,Không có
+//www.thegioididong.com/laptop/asus-vivobook-s-16-oled-s5606ma-ultra-5-mx050w,Không có,Không có,Không có,Không có,Không có
