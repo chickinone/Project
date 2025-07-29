@@ -1,0 +1,35 @@
+version: '3'
+services:
+  zookeeper:
+    image: wurstmeister/zookeeper
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: wurstmeister/kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: laptopdb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Truongdz2004@
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  flink:
+    build: ./flink
+    container_name: flink_jobmanager
+    depends_on:
+      - kafka
+      - postgres
+    volumes:
+      - ./flink/usrlib:/opt/flink/usrlib

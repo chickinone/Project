@@ -1,0 +1,1 @@
+pipeline.jars: file:///opt/flink/usrlib/flink-connector-kafka-1.17.0.jar
