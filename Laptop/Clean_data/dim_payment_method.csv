@@ -1,0 +1,10 @@
+﻿PaymentMethodKey,PaymentMethodID,PaymentMethodName,Provider,IsOnline,IsActive,CreateDate
+1,PM001,Tiền mặt,N/A,False,True,2020-01-01
+2,PM002,Chuyển khoản ngân hàng,Vietcombank,True,True,2020-01-01
+3,PM003,Thẻ tín dụng,Visa/MasterCard,True,False,2020-01-01
+4,PM004,Thẻ ghi nợ,NAPAS,True,True,2020-01-01
+5,PM005,Ví Momo,Momo,True,True,2020-01-01
+6,PM006,Ví ZaloPay,ZaloPay,True,True,2020-01-01
+7,PM007,Ví ShopeePay,ShopeePay,True,False,2020-01-01
+8,PM008,Quét mã QR,VNPay,True,True,2020-01-01
+9,PM009,Trả góp qua thẻ,FE Credit,False,True,2020-01-01

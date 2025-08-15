@@ -1,0 +1,101 @@
+﻿EmployeeKey,EmployeeID,FullName,Gender,Position,StoreKey,HireDate,IsActive
+1,EMP0001,Damon Christensen,Male,Technician,8,2024-12-11,True
+2,EMP0002,Victor Adams,Male,Store Manager,9,2024-06-14,True
+3,EMP0003,Michael Hernandez,Male,Technician,1,2019-11-19,True
+4,EMP0004,Kelly Johnson,Female,Sales Staff,2,2022-07-21,True
+5,EMP0005,Sydney Cunningham,Female,Sales Staff,4,2023-08-24,True
+6,EMP0006,Michael Taylor,Male,Support Agent,15,2023-01-27,True
+7,EMP0007,Justin Rodriguez,Male,Cashier,19,2022-03-10,True
+8,EMP0008,Sandra Gallegos,Female,Sales Staff,12,2020-07-19,True
+9,EMP0009,Christopher Bautista,Male,Store Manager,18,2023-03-26,False
+10,EMP0010,Kenneth Jones,Male,Support Agent,4,2019-01-25,True
+11,EMP0011,Albert Byrd,Male,Warehouse Staff,12,2025-05-21,True
+12,EMP0012,Christopher Young,Male,Technician,20,2023-10-26,True
+13,EMP0013,Matthew Collins,Male,Support Agent,20,2018-10-31,True
+14,EMP0014,Natasha Leblanc,Female,Warehouse Staff,4,2023-07-27,True
+15,EMP0015,Joseph Alvarez,Male,Cashier,5,2022-05-20,True
+16,EMP0016,Tonya Richardson,Female,Cashier,15,2019-08-02,False
+17,EMP0017,Alexis Alvarez,Female,Warehouse Staff,3,2019-10-17,True
+18,EMP0018,Alyssa Garcia,Female,Technician,14,2020-06-01,False
+19,EMP0019,Cheryl Bass,Female,Cashier,2,2020-04-19,True
+20,EMP0020,Ashley Rhodes,Female,Technician,11,2019-06-12,True
+21,EMP0021,Jorge Jenkins,Male,Cashier,3,2024-07-26,True
+22,EMP0022,Patrick Davis,Male,Warehouse Staff,7,2022-03-06,False
+23,EMP0023,Grant Baker,Male,Technician,4,2023-09-06,False
+24,EMP0024,Jared Williams,Male,Technician,10,2021-02-13,True
+25,EMP0025,Carl Rosales,Male,Store Manager,6,2025-06-02,False
+26,EMP0026,David Keller,Male,Support Agent,10,2022-05-15,True
+27,EMP0027,Russell Christensen,Male,Technician,20,2025-05-27,False
+28,EMP0028,Melissa Murphy,Female,Warehouse Staff,12,2019-10-15,False
+29,EMP0029,Allison Guerrero,Female,Cashier,6,2025-05-18,True
+30,EMP0030,Richard Collier,Male,Sales Staff,4,2023-03-27,False
+31,EMP0031,Stephen Myers,Male,Technician,20,2023-05-05,True
+32,EMP0032,David Acosta,Male,Cashier,11,2018-10-01,False
+33,EMP0033,Lori Brown,Female,Cashier,10,2020-07-04,True
+34,EMP0034,Amber Lee,Female,Warehouse Staff,14,2023-03-07,True
+35,EMP0035,Luis Ellis,Male,Technician,8,2024-07-24,True
+36,EMP0036,Katelyn Cooper,Female,Cashier,18,2020-05-24,True
+37,EMP0037,Leslie Willis,Female,Technician,8,2019-09-25,True
+38,EMP0038,Robert Gonzalez,Male,Store Manager,1,2021-04-16,True
+39,EMP0039,Michael Holmes,Male,Technician,12,2024-12-11,True
+40,EMP0040,Andrea Brooks,Female,Warehouse Staff,17,2021-05-22,True
+41,EMP0041,George Fox,Male,Sales Staff,19,2022-12-26,True
+42,EMP0042,Angela Spencer,Female,Support Agent,3,2025-04-22,True
+43,EMP0043,Mrs. Janice Hawkins,Female,Store Manager,7,2020-06-29,True
+44,EMP0044,Howard Gonzalez,Male,Cashier,14,2020-12-21,True
+45,EMP0045,Alyssa Stanton,Female,Sales Staff,10,2024-11-19,True
+46,EMP0046,Lisa Lowe,Female,Warehouse Staff,3,2018-08-04,False
+47,EMP0047,Scott Cole,Male,Cashier,7,2024-02-16,True
+48,EMP0048,Alexandra Leach,Female,Warehouse Staff,15,2020-10-20,True
+49,EMP0049,Lisa Madden,Female,Support Agent,8,2023-06-04,True
+50,EMP0050,Jocelyn Rasmussen,Female,Store Manager,3,2021-11-14,True
+51,EMP0051,Rhonda Potts,Female,Cashier,9,2022-04-09,True
+52,EMP0052,Donna Brooks,Female,Store Manager,11,2018-10-09,True
+53,EMP0053,Julie Torres,Female,Store Manager,5,2019-10-09,True
+54,EMP0054,Donna Rivas,Female,Sales Staff,2,2024-11-14,False
+55,EMP0055,Mackenzie Rivera,Female,Technician,2,2018-09-09,True
+56,EMP0056,Douglas Beasley,Male,Support Agent,3,2018-11-12,True
+57,EMP0057,Rose Vasquez,Female,Cashier,3,2021-06-04,True
+58,EMP0058,Robert Li,Male,Warehouse Staff,7,2020-05-15,True
+59,EMP0059,Dustin Summers,Male,Support Agent,15,2021-05-16,True
+60,EMP0060,Johnny Jackson,Male,Sales Staff,19,2020-02-23,False
+61,EMP0061,Erin Jackson,Female,Support Agent,4,2022-01-17,False
+62,EMP0062,Emily Banks,Female,Sales Staff,6,2019-08-15,False
+63,EMP0063,Derek Roy,Male,Support Agent,4,2019-10-14,False
+64,EMP0064,Lisa Thompson,Female,Support Agent,19,2019-09-20,True
+65,EMP0065,Rebecca Davis,Female,Warehouse Staff,16,2025-06-02,True
+66,EMP0066,Bobby Hill,Male,Cashier,4,2022-02-28,False
+67,EMP0067,Kelsey Keller,Female,Technician,15,2019-12-16,True
+68,EMP0068,Briana Bowman,Female,Warehouse Staff,13,2025-01-10,False
+69,EMP0069,Lisa Small,Female,Store Manager,13,2023-12-08,True
+70,EMP0070,Amanda Jones,Female,Support Agent,15,2022-07-10,True
+71,EMP0071,Julie Wallace,Female,Technician,16,2018-09-03,True
+72,EMP0072,Julia Baxter,Female,Sales Staff,10,2022-09-15,True
+73,EMP0073,Michael Cooper,Male,Warehouse Staff,16,2025-06-01,True
+74,EMP0074,Paul Dyer,Male,Sales Staff,8,2023-09-02,True
+75,EMP0075,Jaclyn Singh,Female,Support Agent,6,2025-02-25,True
+76,EMP0076,Richard Sullivan,Male,Store Manager,17,2023-09-06,True
+77,EMP0077,David Hancock,Male,Store Manager,10,2023-12-23,True
+78,EMP0078,Leslie Richardson,Female,Store Manager,18,2022-02-18,False
+79,EMP0079,Patrick Jenkins,Male,Store Manager,1,2018-12-05,True
+80,EMP0080,Mike Brown,Male,Technician,16,2018-08-12,True
+81,EMP0081,Stephanie Perez,Female,Support Agent,19,2022-04-12,True
+82,EMP0082,Tina Russell,Female,Cashier,17,2019-03-03,True
+83,EMP0083,Timothy Porter,Male,Store Manager,12,2021-03-01,False
+84,EMP0084,Matthew Thomas,Male,Warehouse Staff,14,2023-01-25,True
+85,EMP0085,Jacob Williams,Male,Sales Staff,20,2023-11-27,True
+86,EMP0086,Rachel Rowe,Female,Warehouse Staff,20,2024-01-10,True
+87,EMP0087,Doris Butler,Female,Support Agent,12,2023-08-14,True
+88,EMP0088,Charles Perkins,Male,Technician,6,2023-08-08,True
+89,EMP0089,Jessica Hernandez,Female,Sales Staff,14,2023-11-10,False
+90,EMP0090,Joshua Kane,Male,Store Manager,19,2021-01-30,True
+91,EMP0091,Tina Larsen,Female,Technician,16,2020-07-22,False
+92,EMP0092,Christopher Fisher,Male,Store Manager,13,2023-03-15,True
+93,EMP0093,Jane Herrera,Female,Sales Staff,10,2020-08-17,True
+94,EMP0094,Ashley Murphy,Female,Cashier,14,2022-05-31,False
+95,EMP0095,Gary Snow,Male,Cashier,14,2024-05-10,False
+96,EMP0096,Jessica Howard,Female,Sales Staff,12,2025-03-15,True
+97,EMP0097,Matthew Jones,Male,Technician,8,2020-01-21,False
+98,EMP0098,Carlos Lowe,Male,Sales Staff,18,2022-06-12,True
+99,EMP0099,Brenda Hall,Female,Store Manager,3,2021-01-17,True
+100,EMP0100,Fernando Richardson,Male,Store Manager,12,2021-11-20,True

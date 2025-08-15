@@ -1,0 +1,5 @@
+# Ship connector JARs cùng job (song song với việc mount vào /opt/flink/lib)
+pipeline.jars: file:///opt/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar,file:///opt/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar,file:///opt/flink/usrlib/postgresql-42.6.0.jar,file:///opt/flink/usrlib/flink-json-1.17.0.jar
+
+python.client.executable: /usr/bin/python3
+python.executable: /usr/bin/python3

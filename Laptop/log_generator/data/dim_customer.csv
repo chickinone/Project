@@ -1,0 +1,401 @@
+﻿CustomerKey,CustomerID,FullName,Gender,DateOfBirth,Age,PhoneNumber,Email,Address,City,Province,Country,CustomerType,IsLoyalCustomer,JoinDate,IsActive,CreateDate
+1,CUST-100001,John Blake,Male,1984-11-09,41,(756)507-5559x4103,davidkelly@example.org,4929 Bryan Forest Apt. 570,New William,Hawaii,Lesotho,Wholesale,True,2014-08-26,True,2017-05-26
+2,CUST-100002,Robert Kemp,Male,1999-01-07,26,5424043649,nathangonzalez@example.com,166 Suzanne Parkways,Davisstad,Delaware,Reunion,Retail,True,2024-01-21,True,2024-02-12
+3,CUST-100003,Nathaniel Davis,Male,1972-11-14,53,001-280-843-3084x2120,ashley92@example.net,469 Sheri Isle,New David,North Dakota,Bahamas,Wholesale,True,2004-02-23,False,2005-11-23
+4,CUST-100004,Hailey Daugherty,Female,1985-06-02,40,001-617-307-7319x095,michellebrown@example.com,5023 Ronald Plaza,East Jeannebury,Vermont,Cocos (Keeling) Islands,Retail,True,2007-10-23,False,2009-02-26
+5,CUST-100005,Rachel Flynn,Female,2003-10-30,22,2722277368,michelenunez@example.org,327 Ruiz Estates Suite 026,West Marytown,New York,Saint Martin,Wholesale,False,2025-04-16,True,2025-05-04
+6,CUST-100006,Theresa Smith,Female,1996-02-06,29,484.738.1627x3912,jacobsonruth@example.com,64501 Johnson Underpass Suite 190,Fitzpatrickburgh,Ohio,Kazakhstan,Retail,True,2021-04-08,False,2021-12-29
+7,CUST-100007,Carlos Walters,Male,1956-05-10,69,578.660.3744x08588,moracynthia@example.org,81270 Jeanne Pine Apt. 806,Port Timothymouth,Montana,New Caledonia,Online,True,1987-09-16,False,2005-05-22
+8,CUST-100008,Alexander Bond,Male,1993-02-04,32,(732)899-8043x4780,jacobslinda@example.net,2754 John River,Gordonshire,Nevada,Lesotho,Wholesale,True,2011-11-22,False,2018-04-02
+9,CUST-100009,Nicole Fowler,Female,1998-01-14,27,7403450250,emily83@example.com,86571 William Isle Apt. 677,East Anthony,Vermont,Sao Tome and Principe,Retail,True,2017-02-19,False,2020-10-11
+10,CUST-100010,Terri Werner,Female,1973-09-03,52,001-971-893-7232x199,jeremyevans@example.org,9912 Heidi Highway,Lake Stephanieton,Alabama,Mauritania,Online,False,2019-11-15,False,2022-07-07
+11,CUST-100011,Charles Ross,Male,2003-04-17,22,001-541-585-5408x4882,dprice@example.com,2001 Walls Dale,Port David,New Jersey,Oman,Wholesale,True,2021-04-21,False,2024-07-08
+12,CUST-100012,Collin Johnson,Male,2002-08-04,23,(360)617-0843,ashley10@example.net,75583 Rodriguez Shore Suite 788,East Seanmouth,Oklahoma,Palau,Wholesale,False,2020-10-18,False,2025-05-23
+13,CUST-100013,John Hernandez,Male,1980-06-01,45,001-561-872-6078,jenniferfreeman@example.net,7629 Amanda Common,West Justin,Alaska,Sierra Leone,Online,True,2002-08-27,True,2014-01-18
+14,CUST-100014,Carolyn Garcia,Female,2004-03-30,21,398.642.1246x202,corey94@example.net,272 Thomas Freeway Suite 298,East Steve,Vermont,Zambia,Retail,False,2023-06-30,True,2025-04-08
+15,CUST-100015,Kevin Bell,Male,1959-11-02,66,+1-538-509-3374x0503,boothmichael@example.net,38777 Joshua Estates,West Curtis,Kentucky,Western Sahara,Wholesale,False,2007-11-14,False,2022-04-24
+16,CUST-100016,Ashley Miller,Female,1981-03-01,44,447-884-8692x94232,wendyjacobs@example.org,150 Jensen Cliff,Mooreburgh,New Jersey,New Zealand,Online,False,2011-08-18,False,2019-08-03
+17,CUST-100017,Monica Fuller,Female,1991-06-28,34,384-824-8473x29425,kjohnson@example.org,510 Rhodes Glens Apt. 789,Fosterstad,South Carolina,Liechtenstein,Online,True,2015-11-20,False,2021-10-13
+18,CUST-100018,Valerie Franklin,Female,1960-12-03,65,001-779-489-5672x1059,umoore@example.com,510 Pratt Cape Apt. 579,Joshuaborough,Pennsylvania,Cocos (Keeling) Islands,Wholesale,True,2008-12-14,True,2023-01-09
+19,CUST-100019,Joseph Stewart,Male,2000-06-28,25,(276)654-5519x323,jamesbailey@example.com,97958 Patrick Cliff Suite 768,Lake Gregorystad,New York,American Samoa,Retail,False,2020-10-14,False,2024-11-24
+20,CUST-100020,Benjamin Harris,Male,1980-05-14,45,001-790-987-1231x08162,ariasandrea@example.com,27015 Thompson Street Suite 951,Brianchester,Iowa,Turks and Caicos Islands,Retail,False,2011-03-29,True,2022-05-19
+21,CUST-100021,Robert Waters,Male,1970-09-20,55,384-209-6776x28574,qmccormick@example.net,69526 Jeanne Forge,Baileyhaven,North Carolina,Serbia,Online,True,2024-03-22,True,2025-02-06
+22,CUST-100022,Anna Williams,Female,1956-07-09,69,(359)554-9876x2191,janiceray@example.com,34639 Cynthia Viaduct,Nancybury,Kansas,Philippines,Wholesale,False,2014-12-28,False,2023-12-31
+23,CUST-100023,Matthew Gray,Male,1993-09-26,32,001-353-556-9912x829,candace56@example.com,5613 Miller Street Apt. 345,New Matthew,South Dakota,United States Minor Outlying Islands,Wholesale,True,2022-08-27,True,2024-01-07
+24,CUST-100024,Tony Stone,Male,1982-04-28,43,+1-875-994-0063,silvajames@example.org,949 Coleman Squares,Sharontown,North Carolina,United States Virgin Islands,Retail,False,2014-09-20,False,2019-02-16
+25,CUST-100025,Rick Johnson,Male,1963-08-07,62,(360)482-3432,odonnellpatrick@example.net,015 Margaret Lake Suite 869,Julieborough,Missouri,Yemen,Wholesale,True,2023-10-10,True,2025-02-14
+26,CUST-100026,Mark Krueger,Male,1992-07-14,33,384.247.2364,williamseric@example.net,041 Kristin Road,Lake Tonyside,Minnesota,Ethiopia,Online,False,2011-02-07,False,2021-10-31
+27,CUST-100027,Alexis Johnson,Female,1972-09-18,53,209.941.7016x2960,daniel50@example.org,6330 Santiago Passage Apt. 141,Lake Johnchester,South Carolina,Libyan Arab Jamahiriya,Retail,False,1999-12-16,False,2003-06-26
+28,CUST-100028,Ashley Moore,Female,2006-04-12,19,427.628.8445,garyrichards@example.net,40584 Jonathan Highway,New Ryanhaven,New Hampshire,Rwanda,Wholesale,True,2024-11-25,False,2025-02-24
+29,CUST-100029,Eugene Johnson,Male,1991-09-04,34,355-459-7627,donald44@example.com,23152 Katherine Plains,South Michele,Mississippi,Lithuania,Retail,False,2014-06-21,True,2019-05-29
+30,CUST-100030,Anthony Haney,Male,1956-01-28,69,284.836.6944,leonard33@example.com,18716 Christine Parks Suite 358,Jamesmouth,Illinois,Zimbabwe,Retail,False,2000-11-28,True,2024-10-30
+31,CUST-100031,Alex Pacheco,Male,1987-01-08,38,(234)757-4876x2314,cclark@example.com,72611 William Cove,West Daniel,Nevada,Benin,Online,False,2022-10-03,False,2024-03-08
+32,CUST-100032,Cynthia Thomas,Female,1963-06-02,62,(387)562-2018x0370,roger19@example.com,0343 Smith Pine Apt. 859,Jamesville,South Dakota,United States of America,Online,True,2001-07-30,True,2012-06-02
+33,CUST-100033,Cassie Rollins,Female,1979-03-12,46,755.443.0854,rjennings@example.net,317 Carol Isle Apt. 561,New Karen,West Virginia,Ireland,Retail,True,2017-05-26,True,2019-06-02
+34,CUST-100034,Brittany Landry,Female,1981-06-16,44,(414)828-9019x02042,justinrichard@example.org,809 Jennifer Ports Suite 831,West Erik,Nebraska,Chad,Retail,True,2014-12-13,True,2017-01-11
+35,CUST-100035,William Little,Male,1990-07-23,35,(350)323-9563x638,troycarpenter@example.net,68322 Autumn Extension Suite 524,West Valerie,Montana,Liechtenstein,Retail,True,2017-09-21,True,2024-10-27
+36,CUST-100036,Tyler Webb,Male,1986-10-06,39,738-326-7767,dianaturner@example.net,4043 Johnson Village,New Caseymouth,Vermont,Congo,Online,False,2021-03-08,False,2021-10-28
+37,CUST-100037,Marissa Gibson,Female,2003-04-20,22,541-280-9888x973,hstark@example.org,45934 Daniel Fork,Millerfort,Michigan,United States Minor Outlying Islands,Online,False,2025-04-28,False,2025-05-17
+38,CUST-100038,Cheyenne Thompson,Female,2005-12-03,20,642-713-8613x56646,susanvasquez@example.org,831 Collin Falls Apt. 285,Lake Joshuaville,Kansas,Micronesia,Online,True,2024-04-25,False,2024-07-26
+39,CUST-100039,Susan Johnson,Female,1983-02-05,42,433-999-4983x160,martinezashley@example.net,730 Tran Expressway Suite 828,Jessicachester,Illinois,Palau,Online,False,2006-06-13,True,2018-10-22
+40,CUST-100040,Catherine Flores,Female,1995-12-15,30,9936189962,coxpeter@example.net,557 Diana Cliffs,Kathyport,Florida,Iran,Wholesale,True,2019-10-07,False,2022-08-25
+41,CUST-100041,David Mitchell MD,Male,1986-05-15,39,335-384-8363x13154,zrodriguez@example.net,061 Eric Place Suite 332,East Connieville,Oregon,Armenia,Online,True,2023-05-24,True,2025-03-10
+42,CUST-100042,Amanda Watkins,Female,1958-06-15,67,001-992-281-5155x11565,john03@example.net,75906 Merritt Station,Gloverville,New Jersey,Nauru,Retail,True,2024-12-20,False,2025-03-06
+43,CUST-100043,Carlos Robertson,Male,1970-08-14,55,+1-785-948-7408,olopez@example.org,041 Thomas Park Suite 643,Pamelaberg,Michigan,San Marino,Online,False,1997-09-01,False,2006-12-16
+44,CUST-100044,Caitlin Carpenter,Female,1955-03-10,70,478-447-2344x0808,jeffrey41@example.org,129 Moss Loop,East Josephview,Maine,Jersey,Online,True,2016-09-12,False,2022-05-27
+45,CUST-100045,Jacob Smith,Male,1986-07-16,39,001-342-464-0661x06306,joshuacopeland@example.net,9694 Eric Station,Nguyenshire,Nebraska,Turkmenistan,Online,True,2023-06-15,False,2023-12-05
+46,CUST-100046,Kimberly Miller,Female,1959-12-26,66,001-581-531-2082x3503,carl64@example.net,3313 Michael Spurs Apt. 468,Scottview,Kentucky,Fiji,Wholesale,False,1978-04-20,True,1979-03-17
+47,CUST-100047,Thomas Gregory,Male,1963-11-28,62,+1-571-283-3563x277,stephensjessica@example.com,5271 Derek Views Suite 529,Victoriashire,Colorado,Turkey,Wholesale,True,2018-02-07,True,2020-09-25
+48,CUST-100048,Oscar Smith,Male,1959-05-02,66,+1-918-887-9468,mark24@example.org,21929 Wilson Village,Prestonfurt,Nebraska,Armenia,Online,True,2001-09-11,True,2021-05-22
+49,CUST-100049,Amber Morgan,Female,2001-12-06,24,(597)987-0168,imathews@example.org,9855 Norman Walks Apt. 053,North Meganton,Maryland,Hungary,Wholesale,False,2022-03-22,False,2024-08-04
+50,CUST-100050,Kelly Cooper,Female,1959-12-02,66,+1-274-498-0758,njohnson@example.org,472 Ashley Parkways,Port Rebeccamouth,Kansas,Comoros,Wholesale,True,2001-06-20,False,2013-10-29
+51,CUST-100051,Katrina Morris,Female,1978-10-13,47,927.617.7578x19944,tayloranthony@example.org,873 Davis Place Suite 825,Robertport,Michigan,United States of America,Wholesale,True,2014-08-14,True,2018-07-18
+52,CUST-100052,John Barnes,Male,1990-05-22,35,6502840689,dhughes@example.com,508 Justin Motorway Apt. 592,Henryville,Wyoming,Sweden,Wholesale,True,2014-07-01,False,2017-11-10
+53,CUST-100053,Carlos Thomas,Male,1987-04-08,38,858.931.5092x04474,andres79@example.org,1156 Leah Union,Edwardside,Arkansas,Saint Martin,Wholesale,False,2009-08-16,False,2023-07-02
+54,CUST-100054,Sara Rodriguez,Female,1988-12-10,37,367.619.5921x957,longamy@example.net,6465 Michelle Landing,Jacobview,New York,Iraq,Online,True,2021-02-17,True,2023-06-25
+55,CUST-100055,Michael Cantu,Male,1961-05-10,64,001-225-523-4552x54012,lpatton@example.net,024 Daniel Rue,East Holly,Georgia,Honduras,Retail,False,2003-01-24,False,2023-08-28
+56,CUST-100056,Mike Bailey,Male,1995-11-08,30,+1-694-419-2894x708,williamssydney@example.com,2746 Stewart Shoal Apt. 208,Tamiton,North Dakota,El Salvador,Online,False,2018-05-08,True,2020-06-07
+57,CUST-100057,Paul Henderson,Male,1973-01-10,52,(517)786-3010x47653,xwilliams@example.net,39763 Smith Drive,Christinatown,California,Montenegro,Wholesale,False,2022-01-11,False,2023-08-26
+58,CUST-100058,Maria Rodriguez,Female,2002-05-03,23,6864236571,egarrett@example.net,481 Benson Ranch,South Amberland,Hawaii,Swaziland,Online,True,2021-12-27,True,2024-09-25
+59,CUST-100059,Michael Moore,Male,2001-05-12,24,675.772.1546x0961,wallercynthia@example.com,343 Rebecca Squares Suite 322,Staceyhaven,South Dakota,Cocos (Keeling) Islands,Retail,True,2021-05-18,True,2022-09-27
+60,CUST-100060,Linda Marquez,Female,1963-02-27,62,(352)586-5854,whernandez@example.net,8082 Evans Spring,Karamouth,Iowa,Cyprus,Online,False,2000-09-13,False,2010-06-26
+61,CUST-100061,Robert Thomas,Male,1981-02-21,44,+1-505-223-0519x4027,gamblebrian@example.org,5342 Martin Manor,South David,Iowa,Belarus,Retail,True,1999-12-29,True,2000-01-02
+62,CUST-100062,Keith Mccoy,Male,2003-04-25,22,001-358-752-2470x2274,sroach@example.net,5986 William Trace,Galvanville,Connecticut,Oman,Wholesale,False,2022-06-25,False,2022-12-23
+63,CUST-100063,Cynthia Ward,Female,2000-06-15,25,001-417-601-7488x7308,stephaniebender@example.com,8833 Robinson Stravenue,Geraldfurt,North Dakota,Philippines,Online,True,2022-10-17,False,2023-11-04
+64,CUST-100064,Joseph Davis,Male,1977-10-07,48,515.622.6079,sandrarose@example.com,455 Dawn Tunnel Suite 428,Nealland,Montana,Indonesia,Wholesale,False,1998-01-27,False,2015-02-03
+65,CUST-100065,Douglas Palmer,Male,1984-01-07,41,679-542-3198x718,myersmatthew@example.com,8087 Scott Estates,Greenechester,North Dakota,Qatar,Wholesale,True,2008-12-09,False,2013-06-01
+66,CUST-100066,Samuel Simpson,Male,2004-06-06,21,880-843-8960x0400,cody78@example.net,048 Derek Junction,Charlesfurt,South Carolina,Panama,Online,True,2024-06-26,False,2025-07-16
+67,CUST-100067,Allison Diaz,Female,1991-05-16,34,2426933391,yfischer@example.org,4991 Jamie Shoals Apt. 754,Port Christopherberg,Oklahoma,Venezuela,Online,True,2013-03-31,True,2024-11-09
+68,CUST-100068,Tonya Clark,Female,1974-01-19,51,3814381184,glennvelez@example.org,9212 Brian Fall Suite 153,Richardview,Florida,Italy,Retail,False,2011-04-03,True,2011-11-11
+69,CUST-100069,Katherine Deleon,Female,1975-10-08,50,+1-495-463-0248x30302,lgentry@example.org,952 Alicia Villages,Michaelbury,Texas,Antigua and Barbuda,Retail,False,2012-02-06,False,2020-12-21
+70,CUST-100070,Dean West,Male,2001-07-22,24,345-674-5990x8440,grimesmark@example.com,908 Holt Station Suite 102,Mccoymouth,Indiana,Barbados,Online,False,2024-05-06,False,2024-08-15
+71,CUST-100071,Sabrina Murphy,Female,1989-09-05,36,(637)839-5014x2608,lbrady@example.org,62526 Danny Alley Suite 774,Jessefort,Utah,Australia,Retail,True,2010-09-12,True,2011-06-29
+72,CUST-100072,Ronald Leblanc,Male,1990-12-20,35,+1-944-862-9707,adamsdaniel@example.net,97791 Nicholas Circles,New Jared,Georgia,Korea,Wholesale,False,2011-05-13,True,2024-05-31
+73,CUST-100073,Corey Robertson,Male,1973-02-04,52,607-618-2366,gonzaleszachary@example.org,91760 Moore Street Apt. 964,West Stephanieton,Texas,New Zealand,Retail,False,2022-06-24,False,2025-04-15
+74,CUST-100074,Antonio Martin,Male,1976-10-20,49,5459681033,chelseaanderson@example.org,617 Katie Skyway Apt. 321,Port Joshua,Iowa,Netherlands Antilles,Online,False,2003-04-01,False,2006-04-25
+75,CUST-100075,John Foster,Male,1970-11-17,55,(407)965-0742x71223,stewartbrian@example.net,826 William Isle Suite 265,Lake Joshua,Virginia,Kenya,Online,True,1988-11-23,True,2019-05-09
+76,CUST-100076,Jennifer Greene,Female,1995-02-11,30,745-858-6068,robert07@example.org,65005 Stephen Courts Apt. 115,Lopezberg,North Carolina,Montserrat,Online,True,2021-03-07,False,2021-12-26
+77,CUST-100077,Katelyn Jenkins,Female,2000-06-23,25,9266414798,pamela71@example.net,3576 Freeman Cliff Apt. 149,West Karenmouth,Delaware,Cape Verde,Online,False,2024-12-19,True,2025-03-17
+78,CUST-100078,Eric Roman,Male,1977-04-28,48,001-505-538-6320x651,lesliecarrillo@example.com,4532 Smith Views,Lake Michellechester,Kentucky,Algeria,Online,False,2007-07-30,True,2024-08-10
+79,CUST-100079,Sharon Gilmore,Female,2006-01-11,19,989-353-8032,josephwheeler@example.org,3777 Reed Run,East Jose,Washington,Saint Barthelemy,Retail,False,2025-06-08,False,2025-06-10
+80,CUST-100080,Edwin Richardson,Male,1974-12-06,51,001-480-645-1271,samuelchang@example.com,89268 Rhodes Prairie Apt. 725,Donnaborough,Idaho,United States Minor Outlying Islands,Online,False,1992-12-14,False,2010-11-25
+81,CUST-100081,Jodi Jennings,Female,1971-03-25,54,(904)935-5339x1943,monicaellis@example.com,72787 Katherine Dale,Lake Johnhaven,Iowa,Oman,Online,True,2000-03-07,False,2008-09-21
+82,CUST-100082,Jennifer Wilkins,Female,1967-02-26,58,650-937-6421x4163,mariaguzman@example.org,305 Adam Overpass,Andrewfurt,Virginia,Belgium,Retail,False,2018-06-29,True,2023-06-26
+83,CUST-100083,Marie Newman,Female,1969-07-15,56,001-594-339-8848x97230,andrewperry@example.net,61124 Fisher Alley Apt. 154,Port Chadport,Vermont,Costa Rica,Retail,False,2009-11-06,True,2014-12-14
+84,CUST-100084,Jennifer Underwood,Female,1990-10-23,35,(455)974-3338,kathleenwalls@example.org,764 Smith Fork Apt. 784,South Hannahside,Indiana,Equatorial Guinea,Wholesale,False,2011-04-10,False,2024-03-13
+85,CUST-100085,Molly Ruiz,Female,1969-10-01,56,+1-750-926-0366,joneschristopher@example.org,3886 Shaw Mountains Apt. 210,Morenohaven,Georgia,Tajikistan,Retail,True,2012-06-06,True,2018-08-07
+86,CUST-100086,Brian Mejia,Male,1964-03-04,61,422.668.4561x880,frederick10@example.com,007 Francis Crest Suite 385,North Brettshire,Wyoming,Burundi,Wholesale,True,2008-04-13,True,2022-03-29
+87,CUST-100087,Matthew Mendoza,Male,2004-03-20,21,233.263.2511,kmiranda@example.org,48863 Patricia Forks,South Dawn,Arkansas,Lebanon,Online,False,2024-04-13,False,2025-01-17
+88,CUST-100088,John Becker,Male,1993-03-04,32,001-866-477-4563,evansdavid@example.org,2292 Griffin Squares Suite 062,Garciamouth,Arizona,Niue,Wholesale,True,2017-07-01,False,2020-02-14
+89,CUST-100089,Christina Jones,Female,1985-01-14,40,001-570-418-5115x92761,xavier51@example.com,06083 Haynes Locks Apt. 644,East Charlotteport,Wyoming,Zambia,Wholesale,True,2017-06-17,False,2019-10-05
+90,CUST-100090,Morgan Dawson,Female,1983-04-30,42,279.800.1288x978,tammy54@example.com,36988 Richard Fields,North Crystalbury,Connecticut,Botswana,Online,False,2003-05-02,False,2006-01-12
+91,CUST-100091,Keith Barker,Male,1998-01-07,27,495-330-8475x17338,joshuahammond@example.net,868 Katherine Underpass Apt. 760,West Mackenzieview,Delaware,Qatar,Wholesale,False,2019-07-17,True,2019-12-23
+92,CUST-100092,Julie Reed,Female,2000-07-18,25,995.344.4960,jenkinsglenda@example.org,7999 Brian Crossroad Apt. 060,New Annaside,Delaware,Guadeloupe,Retail,True,2019-01-09,False,2022-05-10
+93,CUST-100093,Bobby Stark,Male,1985-03-31,40,612-242-0497x6943,wjoseph@example.com,0918 Valerie Loaf,Alexanderland,Louisiana,Pitcairn Islands,Online,False,2005-09-08,True,2011-01-01
+94,CUST-100094,Jennifer Meyers,Female,2001-01-31,24,603-488-8150,ymartinez@example.com,58408 Sara Coves Apt. 310,Brownmouth,North Dakota,Hungary,Retail,False,2024-05-31,True,2025-07-21
+95,CUST-100095,Daniel Clark,Male,1992-06-19,33,(257)257-0746,gilberthoward@example.net,711 Cox Radial,Lopezside,Nevada,Gambia,Wholesale,False,2025-01-12,False,2025-07-19
+96,CUST-100096,Timothy Khan,Male,2002-04-18,23,733.394.6748x679,ztaylor@example.org,864 Jose Turnpike,Lake Suzanne,North Dakota,Faroe Islands,Retail,True,2024-12-07,False,2025-06-26
+97,CUST-100097,Kyle Harris,Male,1958-07-09,67,+1-969-856-1361x611,andrewwelch@example.com,644 Alvarado Circle Suite 817,Stevenborough,Maine,Zimbabwe,Wholesale,True,2002-06-24,False,2016-05-19
+98,CUST-100098,James Arias MD,Male,1993-06-29,32,507.322.0466x4202,urobinson@example.com,82914 Lopez Dale,Williamschester,Connecticut,Sudan,Online,False,2013-01-30,True,2021-06-18
+99,CUST-100099,Thomas Anderson,Male,1988-01-18,37,786.300.0551,crodriguez@example.com,9947 Williams Parks Apt. 036,Lake Jameshaven,New Mexico,Liechtenstein,Online,False,2007-08-07,False,2016-01-07
+100,CUST-100100,Megan Thomas,Female,1963-01-05,62,838-486-0832x980,erica14@example.org,4805 Sabrina Drives Suite 456,Ortizland,Texas,San Marino,Retail,False,1981-05-18,False,2024-08-04
+101,CUST-100101,Kimberly Mcgrath,Female,1967-02-14,58,001-474-784-4979x5267,tina66@example.org,2295 Gilbert Course Suite 100,West Ryan,Maine,Libyan Arab Jamahiriya,Wholesale,True,2003-08-04,False,2023-08-02
+102,CUST-100102,Morgan Collins,Female,2003-09-12,22,+1-980-201-4439x50283,qthomas@example.org,044 Anthony Drives,New Joel,Virginia,Netherlands Antilles,Retail,True,2022-09-13,False,2024-12-08
+103,CUST-100103,Michael Brown,Male,1970-09-25,55,(904)683-2680x49146,kendra80@example.net,02725 Farmer Ramp Suite 071,North Teresa,Virginia,Burkina Faso,Retail,False,1998-02-11,True,2015-03-15
+104,CUST-100104,Erin Thompson,Female,1990-01-25,35,976-718-7820x89842,blackashley@example.com,535 Clark Trafficway Suite 681,Woodwardburgh,Vermont,Anguilla,Wholesale,False,2015-12-30,False,2021-02-09
+105,CUST-100105,Dennis Jones,Male,1978-02-14,47,654.425.6568x61772,umoore@example.com,512 Schmitt Ferry,South Cindyport,Georgia,Hungary,Online,False,2011-04-03,True,2011-06-27
+106,CUST-100106,Deborah Adams,Female,1971-05-07,54,753.354.3501,christina40@example.com,2909 Robinson Forks Apt. 868,East Kevin,Delaware,Singapore,Online,False,1996-12-01,False,2014-12-05
+107,CUST-100107,Donald Kelly,Male,1963-10-04,62,+1-700-278-7254x060,dennisford@example.com,735 Katherine Place,South Madelinebury,New Mexico,Philippines,Online,False,1999-02-22,True,2008-04-12
+108,CUST-100108,Sarah Bowman,Female,1967-09-03,58,+1-777-208-3482x19939,edgartran@example.org,875 Simmons Inlet Suite 973,Port Candiceland,Arkansas,Sudan,Online,False,1992-04-20,True,2023-11-06
+109,CUST-100109,Darryl Lee,Male,1964-10-19,61,+1-939-246-5373x960,williamfrancis@example.org,101 Joyce Tunnel,Christopherville,Utah,Costa Rica,Online,True,2018-11-27,False,2019-11-14
+110,CUST-100110,Christopher Lin,Male,1976-07-05,49,411.305.7272,dsilva@example.org,8266 Gonzalez Gateway Apt. 618,Lake Davidton,West Virginia,Western Sahara,Online,True,2017-04-24,True,2018-06-29
+111,CUST-100111,George Mckee,Male,1973-02-16,52,001-446-770-2011,mariajones@example.com,4723 Joshua Radial Suite 019,North Brandonberg,Wyoming,Holy See (Vatican City State),Online,False,2000-10-01,False,2006-01-06
+112,CUST-100112,Cheryl Riley,Female,1992-01-18,33,380.859.4435,warddrew@example.net,441 Day Locks Suite 232,Port Debraberg,Minnesota,Azerbaijan,Online,False,2019-01-12,False,2019-02-17
+113,CUST-100113,Chad Wallace,Male,1959-05-20,66,001-504-434-6781x8520,nicholas44@example.net,53068 Burke Loaf Apt. 790,Christopherberg,Indiana,Bolivia,Retail,True,2001-10-04,True,2008-04-08
+114,CUST-100114,Laura Jones,Female,1970-05-12,55,001-572-446-1283,ibrown@example.org,39052 Rachel River,East Nicole,Arkansas,Azerbaijan,Retail,False,2001-11-28,True,2017-06-28
+115,CUST-100115,Anthony Russell,Male,1982-05-27,43,001-619-762-1104,zcoleman@example.org,378 Dennis Knoll,Lake Troytown,South Carolina,Malawi,Wholesale,True,2011-02-07,False,2011-07-09
+116,CUST-100116,Erik Moyer,Male,1972-07-02,53,213.939.6255,vhudson@example.org,84958 Jason Roads,Mcdonaldview,New Jersey,Ecuador,Online,False,1991-11-07,True,2016-04-20
+117,CUST-100117,Donald Gould,Male,2002-04-25,23,421-294-1885x4748,riveraian@example.com,359 Harris Oval,Jesseside,Arkansas,Congo,Wholesale,False,2021-08-30,True,2023-10-22
+118,CUST-100118,Nathan Nunez,Male,1997-03-02,28,590.765.9729x742,icarter@example.org,23048 Petersen Ramp Apt. 069,Lake Timothystad,Idaho,Tunisia,Retail,True,2020-01-10,False,2024-12-05
+119,CUST-100119,Mrs. Cynthia White,Female,1982-07-18,43,(487)349-0375x516,bryancarter@example.org,369 Curtis Court Apt. 530,Michelleport,New Jersey,Luxembourg,Retail,True,2023-01-12,True,2025-01-31
+120,CUST-100120,Adam Campos,Male,1998-08-22,27,848.479.5416x9491,nboyd@example.org,10338 Rodgers Falls Apt. 757,Crawfordstad,Florida,Dominican Republic,Online,True,2017-04-01,False,2018-03-05
+121,CUST-100121,Jamie Hicks,Female,1963-09-20,62,+1-962-817-4666x283,davidboyer@example.com,5902 King Motorway,Port Meghan,Ohio,Hungary,Wholesale,False,1998-11-29,True,2024-07-09
+122,CUST-100122,Katrina Preston,Female,1990-03-02,35,001-339-241-2003,holtmelissa@example.net,87600 Linda Fork,Keithtown,Wyoming,Uruguay,Wholesale,False,2021-04-29,True,2024-03-19
+123,CUST-100123,Allison Anderson,Female,1967-11-04,58,846-992-1416x341,bettyhenderson@example.net,198 Pitts Common,Goodtown,Ohio,North Macedonia,Retail,False,1993-04-04,True,1999-04-17
+124,CUST-100124,Tanya Larson,Female,1965-04-22,60,804-245-9190x59863,drakenicole@example.com,0622 Jacqueline Corners Apt. 036,New Davidburgh,Kansas,Timor-Leste,Retail,False,1998-06-14,False,1999-03-26
+125,CUST-100125,Daniel Everett,Male,1994-09-13,31,318.215.1031x729,dobrien@example.com,35544 Ward Glen,Mcdowellchester,Mississippi,Azerbaijan,Online,False,2020-01-18,False,2020-06-15
+126,CUST-100126,Allison Rogers,Female,1959-09-28,66,945.664.3786,maytommy@example.net,5398 Brian Parks,Walkerton,South Carolina,Niger,Online,False,2015-05-09,False,2024-11-21
+127,CUST-100127,Alyssa Rubio,Female,1986-05-10,39,4119042545,calexander@example.com,175 Carol Estate,West Austinport,Colorado,Reunion,Wholesale,True,2017-11-04,False,2023-01-25
+128,CUST-100128,Jennifer Schultz,Female,2001-03-29,24,308-350-0189x8942,carpenterdan@example.com,43412 Debbie Light Apt. 978,Williamview,Michigan,Senegal,Retail,True,2022-10-16,True,2025-07-03
+129,CUST-100129,Steven Watson,Male,1959-12-07,66,001-712-413-2990x818,thomascabrera@example.com,15607 Hannah Fork Apt. 547,Steelechester,Missouri,Australia,Online,True,2008-09-18,True,2011-04-17
+130,CUST-100130,Angela Hawkins MD,Female,1970-04-22,55,344-525-6392x785,larachristine@example.org,026 Dean Rue Suite 212,Lake Christopher,Nebraska,Andorra,Retail,False,2016-05-19,False,2024-01-17
+131,CUST-100131,Jacqueline Gray,Female,1970-01-11,55,468-529-5208x1824,mariahcastillo@example.org,2427 Robbins Rapids Apt. 017,Michaelport,Florida,Greece,Retail,False,2008-07-02,False,2015-02-18
+132,CUST-100132,Tina Good,Female,1999-11-11,26,(638)841-8887,hgolden@example.com,129 Christopher Loaf,Julieburgh,New Jersey,Kazakhstan,Wholesale,True,2024-05-16,False,2024-05-19
+133,CUST-100133,Sarah Barry,Female,1960-03-12,65,(627)966-8932x41093,icastaneda@example.net,9385 Smith Turnpike,Walkerport,Pennsylvania,Saint Vincent and the Grenadines,Retail,False,1979-02-23,True,2012-09-02
+134,CUST-100134,Robin Flores,Female,1979-03-03,46,+1-521-410-6427x38188,vasquezerin@example.com,3793 Harris Centers Suite 517,Fisherville,Texas,Guadeloupe,Online,True,2009-01-28,False,2009-09-18
+135,CUST-100135,Kenneth Rodriguez,Male,1999-09-26,26,974.884.1017x4703,nicolemckinney@example.net,13257 Henderson Plaza,Travistown,Indiana,Russian Federation,Wholesale,False,2023-12-29,False,2025-02-19
+136,CUST-100136,Phillip Jenkins,Male,1968-09-11,57,001-783-764-8483x00114,chavezchristopher@example.net,3505 Sanchez Parks,New Bradleyview,Oregon,El Salvador,Retail,False,2012-07-28,False,2023-11-30
+137,CUST-100137,Nicholas Reeves,Male,1965-05-25,60,786.992.6341,hernandezkaren@example.com,75159 Richard Haven,Cookside,Virginia,Pakistan,Wholesale,True,2002-11-10,True,2006-07-24
+138,CUST-100138,Stephanie Miller,Female,1999-11-01,26,+1-512-945-0333,dakotabarnes@example.org,79308 Ashley Glens,Maldonadoborough,Missouri,Zambia,Wholesale,False,2020-02-26,False,2022-02-12
+139,CUST-100139,Juan Cortez,Male,1982-06-27,43,276.933.2764,johnsonashley@example.com,324 Elizabeth Place,North Daniel,Hawaii,British Indian Ocean Territory (Chagos Archipelago),Retail,False,2020-07-03,True,2022-10-31
+140,CUST-100140,Blake Hunter,Male,1958-06-25,67,001-572-732-9190x680,nkim@example.org,4718 Thomas Greens Suite 865,New Elaine,Montana,Poland,Online,True,1990-05-28,True,2010-02-10
+141,CUST-100141,Julie Olson,Female,1975-06-19,50,287-470-1722x990,sheridunn@example.net,20512 Martinez Wells,South Jacob,Michigan,Swaziland,Retail,True,2021-05-05,False,2021-08-29
+142,CUST-100142,Leslie Hernandez,Female,1975-10-13,50,349-317-0256x6102,clarkemichael@example.net,43519 Martinez Drives,Lake Robert,Wyoming,French Southern Territories,Retail,False,2020-09-12,True,2021-11-12
+143,CUST-100143,Jimmy Sanchez,Male,1990-03-09,35,001-275-212-8764x82966,laura20@example.com,90108 Wilson Crest,West Aliciaton,Michigan,Benin,Wholesale,False,2008-12-15,False,2011-06-21
+144,CUST-100144,Mr. Brian Gonzalez,Male,1975-04-03,50,(820)542-0809x89081,andersontyrone@example.com,796 Shannon Lodge Apt. 352,East Brittany,North Carolina,Somalia,Wholesale,True,2008-05-13,False,2023-03-30
+145,CUST-100145,Diana Burke,Female,1986-02-18,39,001-341-727-5412,dfreeman@example.org,59360 Amanda Locks,Rosariostad,New Hampshire,Vietnam,Retail,False,2006-09-07,False,2007-09-21
+146,CUST-100146,Alexander Garner,Male,1998-08-05,27,001-595-803-6833x0446,jennifer75@example.org,450 Vargas Crossroad Apt. 252,Castanedaberg,Missouri,Russian Federation,Wholesale,False,2017-10-11,False,2023-08-06
+147,CUST-100147,Allen Chaney,Male,2005-10-17,20,225.570.0123x351,smoore@example.net,891 Emily Circles,East Hectorburgh,Louisiana,Armenia,Online,True,2025-06-04,True,2025-06-28
+148,CUST-100148,Karen Dominguez,Female,1980-11-22,45,+1-751-274-8170x5644,christopher38@example.net,431 Scott Vista,East Cliffordfurt,Wyoming,French Guiana,Online,True,2008-12-10,False,2014-09-25
+149,CUST-100149,Shari Griffin,Female,1999-05-07,26,(324)382-4751x642,laurie11@example.org,339 Shawn Lodge,Port Courtneyville,Wisconsin,Montenegro,Retail,True,2022-04-25,False,2024-10-03
+150,CUST-100150,Brandon Ellis,Male,1972-05-07,53,+1-251-649-5995x8485,coxdominique@example.com,2542 Williams Corners Apt. 556,Smithville,Oregon,Turks and Caicos Islands,Retail,False,2022-03-16,False,2023-06-15
+151,CUST-100151,Andrea Green,Female,1975-06-23,50,(697)806-2944x84461,catherinejensen@example.com,1723 Ross Stream,Garciastad,Wyoming,Samoa,Retail,True,2011-07-22,False,2011-08-01
+152,CUST-100152,Michael Carlson,Male,2004-12-07,21,552-309-6268,lhouse@example.org,636 Horton Forge,New Samanthashire,Oklahoma,Argentina,Retail,False,2025-02-04,False,2025-04-12
+153,CUST-100153,Linda Zimmerman,Female,1961-07-07,64,(664)222-8937,tholt@example.org,0490 Tamara Junction,South Rebeccaborough,Connecticut,Rwanda,Online,False,1993-12-06,False,1997-10-03
+154,CUST-100154,David Hahn,Male,1965-12-21,60,(890)328-7979x4770,williamstiffany@example.org,3347 Greg Underpass Suite 948,New Xavierland,Colorado,Belarus,Online,False,1998-07-31,False,2019-12-14
+155,CUST-100155,Erica Schmidt,Female,1999-06-03,26,(603)665-2437x67408,samueljohnson@example.com,0597 Amy Tunnel Apt. 432,Alyssaport,Colorado,Latvia,Wholesale,False,2019-11-17,False,2020-06-17
+156,CUST-100156,Jason Wright,Male,1990-11-10,35,994-734-6110,theresahood@example.net,334 Payne Island,South Shawn,Kentucky,Ethiopia,Retail,True,2016-06-05,True,2021-02-16
+157,CUST-100157,Kimberly Calhoun,Female,1980-03-14,45,001-827-923-3713x6065,tjenkins@example.org,1750 Weber Light Suite 582,New Vincent,New Mexico,Saint Barthelemy,Retail,True,2018-09-30,True,2019-10-15
+158,CUST-100158,Ryan King,Male,1961-01-22,64,629.281.5853x62495,charles33@example.net,25142 Erin Oval Suite 210,Lake Charleschester,Texas,British Virgin Islands,Wholesale,False,2000-05-12,False,2017-10-28
+159,CUST-100159,Jason Walton,Male,1980-08-20,45,001-397-995-4208,pauldavis@example.org,65426 Brittany Island Suite 680,Port Mary,North Carolina,Iraq,Online,False,2002-02-17,False,2016-03-22
+160,CUST-100160,Michael Anthony,Male,1957-09-20,68,607.702.7593,watersthomas@example.com,782 Ayers Pine,Kimberlyberg,South Dakota,Guyana,Wholesale,True,1980-04-29,False,1987-05-02
+161,CUST-100161,Rhonda Hicks,Female,2005-10-25,20,001-295-520-2781x22331,deannamiller@example.org,676 Rios Pine Suite 312,South Toddmouth,Tennessee,New Caledonia,Online,False,2023-11-11,True,2025-05-29
+162,CUST-100162,Alisha Jones,Female,1993-09-20,32,630-527-1856x381,theresa60@example.com,9180 Franco Key Suite 335,Port Andreastad,Illinois,Bolivia,Retail,False,2025-06-03,False,2025-06-21
+163,CUST-100163,Jennifer White,Female,1958-01-03,67,(723)301-2912,tclark@example.net,1312 Key Walks Suite 275,North Michael,Florida,Jamaica,Online,True,1979-06-29,True,1991-08-09
+164,CUST-100164,Matthew Gibson,Male,1979-06-15,46,+1-546-648-8650x74666,hawkinskaren@example.net,8629 Hale Greens,Jensenbury,Alabama,Dominican Republic,Retail,True,2021-05-14,True,2023-12-03
+165,CUST-100165,William Anthony,Male,1992-03-29,33,2855420647,leslie43@example.net,177 Olivia Court Suite 299,Ballardberg,Colorado,Solomon Islands,Wholesale,False,2012-06-22,True,2016-08-16
+166,CUST-100166,Julie Perez,Female,2006-06-25,19,755.650.4831,olyons@example.org,0662 Rivera Mission,South Linda,New York,Vietnam,Wholesale,True,2024-11-19,False,2025-02-12
+167,CUST-100167,Brandi Gray,Female,1975-06-13,50,+1-482-373-1182x93588,tyler28@example.org,31044 Thompson Glens Apt. 614,Kirbystad,Montana,Mexico,Retail,True,2021-07-01,False,2024-06-25
+168,CUST-100168,Jason Hanna,Male,1982-02-03,43,464.801.4158,richardmorrison@example.net,60235 Smith Isle,North Jennifer,New Hampshire,Martinique,Online,True,2025-05-21,True,2025-06-27
+169,CUST-100169,Keith Rodriguez,Male,1959-08-06,66,234.703.6588,gutierrezpatrick@example.com,623 William Valley,North Rachelfurt,Arizona,Grenada,Wholesale,True,1978-07-02,False,2009-08-06
+170,CUST-100170,Wendy Smith,Female,2004-04-05,21,729.415.2140x3210,martinezjamie@example.org,5406 Nicholas Station,Bennettstad,Arkansas,North Macedonia,Online,True,2023-03-28,False,2024-09-02
+171,CUST-100171,Alejandro Lopez,Male,1974-12-12,51,001-328-502-5478x7568,davidpayne@example.com,03493 Coleman Village Suite 755,Bryanberg,Alaska,Guadeloupe,Online,True,1993-08-06,False,1999-03-23
+172,CUST-100172,Alexander Davis,Male,1968-11-21,57,(864)459-6571,johnnyparsons@example.com,65367 Michael Manors,Lake Michaelhaven,Texas,Wallis and Futuna,Retail,True,2018-02-20,True,2022-05-02
+173,CUST-100173,Kimberly Smith,Female,1971-12-26,54,6269430644,fullermichael@example.net,92574 Kelly Dam,Rebeccafort,New Hampshire,New Caledonia,Online,True,2024-12-12,False,2025-01-13
+174,CUST-100174,Alicia Wolfe,Female,1971-10-15,54,307-715-9044x94922,daviscody@example.com,9215 Cisneros Mission,Cruzfort,Utah,Canada,Retail,True,2005-02-17,True,2009-04-01
+175,CUST-100175,David Jennings,Male,1971-09-16,54,7353796800,lsmith@example.com,5319 Caldwell Roads Apt. 809,East Davidland,Virginia,Kenya,Wholesale,True,2025-05-09,False,2025-05-21
+176,CUST-100176,Jacob Miller,Male,1992-10-27,33,001-436-838-2034x032,williamduran@example.org,65728 Jose Pine Suite 206,Jamesberg,Mississippi,Mauritania,Online,False,2021-11-26,False,2022-11-22
+177,CUST-100177,Joseph Acevedo,Male,2002-02-21,23,001-787-959-7100x00680,anthony33@example.com,77744 Sarah Shoals,West Anthony,Indiana,Burkina Faso,Online,False,2024-07-08,True,2024-12-21
+178,CUST-100178,John Beasley,Male,1960-09-18,65,+1-740-543-2504x02455,zmyers@example.com,13288 Griffin Estates,Lake Brandytown,Indiana,Russian Federation,Wholesale,True,2019-05-05,True,2024-01-24
+179,CUST-100179,Sheri Shaw,Female,1987-01-01,38,(424)307-9322,maria15@example.net,372 Erin Square Apt. 626,West Zacharyton,California,Gabon,Wholesale,False,2018-03-27,True,2022-03-18
+180,CUST-100180,Robert Camacho,Male,1957-05-21,68,+1-435-730-6807x40095,timothy90@example.org,9517 Hall Shoals,East Tinaview,New Hampshire,Bermuda,Wholesale,False,2024-04-25,False,2025-02-03
+181,CUST-100181,Jaclyn Lane,Female,2003-03-06,22,767.487.1904x7804,jason32@example.net,350 Spencer Meadow Apt. 719,Port Omarmouth,Wisconsin,Nepal,Online,False,2024-12-12,True,2025-06-29
+182,CUST-100182,Louis Nelson,Male,1969-02-05,56,(942)899-9712x52317,rbradshaw@example.org,08342 Anna Mission,Lake Dylanville,Idaho,Madagascar,Retail,False,2010-11-22,True,2025-05-21
+183,CUST-100183,Daniel Torres,Male,1967-02-02,58,(366)635-3482x57253,leehannah@example.com,1773 Vargas Square Apt. 585,North Kristinatown,Alaska,Gabon,Online,False,2021-04-01,True,2025-01-05
+184,CUST-100184,Martin Ballard,Male,1981-07-24,44,537-958-5357x4355,jeanne17@example.org,5936 Miller Burgs,Stanleyshire,Oregon,United States of America,Wholesale,True,2008-02-03,True,2011-10-09
+185,CUST-100185,Christopher Holt,Male,1964-02-19,61,(259)547-0586x73063,cameronmendez@example.net,574 Sims Port,Lake Johnshire,Idaho,Kuwait,Wholesale,False,2019-12-14,False,2021-09-17
+186,CUST-100186,Francisco Mcdonald,Male,1986-05-14,39,(886)716-3145,heathergarcia@example.org,08638 Blevins Shoals,Stuartberg,Illinois,Japan,Retail,False,2023-02-28,True,2024-06-25
+187,CUST-100187,Matthew Thompson,Male,1985-11-20,40,(535)580-2067x8535,cwells@example.net,7293 Christine Junctions Apt. 230,West James,Arkansas,Macao,Wholesale,True,2016-01-02,True,2017-10-26
+188,CUST-100188,Joan Brown,Female,1978-07-19,47,(232)885-1251x218,qmiller@example.net,37269 Benjamin Village Suite 361,Malonetown,Virginia,Sao Tome and Principe,Online,False,2003-07-05,False,2020-11-20
+189,CUST-100189,Alicia Brown,Female,1993-09-26,32,512-804-0882,usanchez@example.net,3989 James Crest Suite 792,Riveramouth,Wyoming,Mozambique,Online,True,2011-11-18,False,2023-03-13
+190,CUST-100190,Aaron Jones,Male,1965-08-18,60,3926419321,williamsdarrell@example.org,651 Chase Garden Suite 747,New Perry,Alabama,Tuvalu,Wholesale,True,2024-03-21,True,2025-02-09
+191,CUST-100191,Andrea Phillips,Female,1999-06-05,26,616.327.2671x84380,cobbstephanie@example.net,3252 Michael Way Suite 647,Lake Rickychester,Michigan,New Caledonia,Retail,True,2022-06-14,True,2025-07-23
+192,CUST-100192,Jennifer Anthony,Female,1986-09-18,39,594.894.2848,hfrancis@example.com,7186 Gibson Lake Suite 534,Tonyashire,Texas,Serbia,Retail,False,2024-04-05,True,2024-11-24
+193,CUST-100193,Briana Wright,Female,1963-11-18,62,(638)983-3865x8054,ugross@example.org,458 Douglas Garden,New Sarahbury,Ohio,Togo,Retail,True,1994-04-17,False,2008-02-01
+194,CUST-100194,Emily Dixon,Female,1969-02-08,56,447-590-8471,michaelhaynes@example.com,698 Peters Station,Mannton,Vermont,Cote d'Ivoire,Wholesale,False,2020-06-10,True,2022-01-16
+195,CUST-100195,Phillip Jones,Male,1979-06-26,46,944.950.0023,ypacheco@example.com,72607 Thomas Meadows,Williamsmouth,Washington,El Salvador,Wholesale,False,2017-09-30,False,2019-03-28
+196,CUST-100196,John Lewis,Male,1999-10-28,26,451-362-6848,amymoreno@example.net,7488 Taylor Extension,Meyerville,Michigan,Maldives,Wholesale,False,2019-07-13,True,2022-03-08
+197,CUST-100197,Brenda Jacobs,Female,1956-04-27,69,554.477.6365,angeladuran@example.com,737 Christopher Hill Suite 748,Mathewsberg,Nevada,Ukraine,Wholesale,True,1987-12-18,False,2022-01-03
+198,CUST-100198,Matthew Butler,Male,1998-10-25,27,(749)243-6956,hramirez@example.org,1436 Clark Greens Suite 410,Michaeltown,Texas,Nauru,Wholesale,False,2025-04-11,False,2025-04-23
+199,CUST-100199,Rachel Williamson,Female,1974-08-07,51,537.493.1443,melissa96@example.net,200 Anne Burgs,Ginahaven,Arkansas,Lithuania,Wholesale,True,2019-08-01,False,2025-07-18
+200,CUST-100200,Mrs. Teresa Mccormick,Female,1983-04-06,42,001-200-413-6449x8473,schroedercynthia@example.net,276 Richard Drive,North Mariamouth,Illinois,Gibraltar,Wholesale,True,2016-08-09,False,2020-01-02
+201,CUST-100201,Michelle Gutierrez,Female,1958-02-10,67,+1-690-398-5565x5564,nancy28@example.org,862 Michele Road,South Deborah,Texas,Gabon,Wholesale,True,2021-07-16,True,2022-11-21
+202,CUST-100202,Jessica Green,Female,1987-08-14,38,+1-404-619-4574x86107,martinezlawrence@example.net,751 Perkins Cliffs,Robertsonside,Florida,France,Wholesale,True,2015-10-20,True,2019-02-03
+203,CUST-100203,James Alexander,Male,1974-03-29,51,+1-250-382-1418x1000,wlynn@example.com,4905 Hester Fields,New Diane,Colorado,Saint Kitts and Nevis,Online,False,2012-09-04,True,2013-02-27
+204,CUST-100204,Julie Gregory,Female,1963-05-27,62,865-781-4366x06328,anne67@example.com,687 Christine Extensions Apt. 019,Clarkport,Washington,Congo,Retail,False,1990-07-19,False,2008-12-30
+205,CUST-100205,Sharon Joseph,Female,2006-10-25,19,001-521-256-8445x012,shelley80@example.org,066 Ashley Garden Apt. 200,Wallsmouth,Oregon,Namibia,Online,False,2025-06-30,True,2025-07-20
+206,CUST-100206,Jason Ramos,Male,1973-08-20,52,849-265-0209x54163,janet42@example.com,774 Scott Field Apt. 566,New Sean,Arkansas,Kazakhstan,Wholesale,False,2009-08-24,True,2011-04-26
+207,CUST-100207,Lisa Gonzalez,Female,1992-07-05,33,001-995-661-9094,juan78@example.com,31253 William Ford,Rebekahville,Alabama,Tuvalu,Wholesale,False,2011-01-10,True,2015-09-02
+208,CUST-100208,Bethany Rogers,Female,2006-04-29,19,305.556.8648,john42@example.net,141 Jackson Throughway Suite 918,West Evan,Idaho,Andorra,Retail,False,2025-01-19,True,2025-06-06
+209,CUST-100209,Melissa Barron,Female,1965-01-01,60,842.566.8592,qhanson@example.net,9175 Andrews Points Apt. 488,Cynthiachester,New York,Kenya,Retail,True,2011-08-23,True,2021-03-22
+210,CUST-100210,Arthur Garrett,Male,1980-10-13,45,227-891-0214x093,yscott@example.net,9102 Holmes Centers Suite 785,East Dianashire,Montana,Lebanon,Online,False,2024-02-01,False,2024-09-01
+211,CUST-100211,Sarah Perez,Female,1998-02-10,27,631-747-4701,grace78@example.org,023 Johnson Highway,Bradleyville,California,Rwanda,Retail,False,2022-09-26,False,2025-05-13
+212,CUST-100212,Cheryl Taylor,Female,1975-05-29,50,+1-373-916-9630x92479,roberthaynes@example.org,230 Ramirez Pike,Colleenport,Connecticut,Guadeloupe,Wholesale,False,2008-06-29,False,2025-07-03
+213,CUST-100213,Karen Cardenas,Female,1975-02-22,50,672.516.0211x20981,espinozaholly@example.net,3372 Hoffman Key,New Toni,Vermont,Uganda,Retail,True,2021-12-23,False,2022-01-22
+214,CUST-100214,Brenda Hoover,Female,1974-03-18,51,(747)912-2980,kclarke@example.com,95338 Carter Mount,Jenniferport,California,Croatia,Online,False,2009-02-18,True,2025-04-01
+215,CUST-100215,Sarah Matthews,Female,2001-06-21,24,690-353-5609x75030,andersenjerome@example.net,48856 Brown Rue,Lake Melissa,Montana,Maldives,Wholesale,True,2021-10-29,True,2024-10-26
+216,CUST-100216,Jeffrey Gaines,Male,1979-07-25,46,6583495703,madison80@example.org,6628 Cole Ports Suite 528,South Rebeccafort,Connecticut,British Indian Ocean Territory (Chagos Archipelago),Wholesale,False,2018-11-03,False,2023-11-08
+217,CUST-100217,Kelly Beck,Male,1957-02-24,68,833-620-0278,joshua36@example.org,54473 Jones Streets,Lake Stephenburgh,Pennsylvania,Trinidad and Tobago,Online,True,1998-10-09,False,2018-10-02
+218,CUST-100218,Erin Love,Female,1973-03-13,52,+1-236-940-6623x232,douglas24@example.net,933 Susan Falls Apt. 953,East Jeffreybury,Minnesota,Pakistan,Retail,True,2007-02-09,True,2022-08-08
+219,CUST-100219,Jamie Watts,Female,1974-04-28,51,843-877-6333,roger27@example.net,225 Mills Forks,Ortizburgh,Kentucky,United States of America,Wholesale,True,2004-03-12,False,2021-07-14
+220,CUST-100220,Dakota Brown,Male,1963-09-30,62,608.772.9256,icox@example.com,07623 Dalton Overpass Apt. 143,Turnermouth,Alabama,Albania,Wholesale,False,2020-01-22,False,2024-04-24
+221,CUST-100221,Jaime Wright,Female,1979-02-10,46,+1-480-731-8061x27642,roberto94@example.org,5664 Burch Villages Suite 363,Maryville,Colorado,United States Minor Outlying Islands,Online,False,2018-08-28,False,2022-07-12
+222,CUST-100222,Dr. Michael Hernandez,Male,1977-07-25,48,398.490.2802,vlee@example.com,3922 Donald Hills,Rachelhaven,Maryland,Norfolk Island,Retail,False,1999-02-09,True,2001-02-12
+223,CUST-100223,Thomas Ortega,Male,1960-05-04,65,+1-635-219-9373x4998,destinymurphy@example.net,68569 Cynthia Run,Martinezton,Michigan,Papua New Guinea,Online,True,2007-02-21,False,2021-01-03
+224,CUST-100224,Jacqueline Mcgrath,Female,1971-09-07,54,(204)593-7679x902,nshaw@example.org,3873 Jill Trafficway Suite 389,Jamesville,Alaska,Burkina Faso,Retail,False,2022-08-18,True,2024-12-27
+225,CUST-100225,Carolyn Mcdonald,Female,2003-04-08,22,(746)237-3308x14242,arianacarroll@example.net,3592 Dominique Meadow,Elizabethton,Kentucky,Slovakia (Slovak Republic),Retail,True,2025-02-01,False,2025-04-13
+226,CUST-100226,Christopher Weber,Male,1954-11-12,71,+1-356-619-3279x975,xsullivan@example.net,447 Joseph Shoal Apt. 914,Port John,Georgia,Mexico,Wholesale,False,1978-04-22,False,2023-04-24
+227,CUST-100227,Peter Richardson,Male,1975-12-12,50,286.526.0930,sberry@example.net,21988 Hurley Harbors Suite 931,Lake James,New Hampshire,Mozambique,Retail,False,1999-04-27,True,2021-05-24
+228,CUST-100228,Steven Carrillo PhD,Male,1956-11-07,69,317.909.8154x220,wpowell@example.org,601 Willis Mill Apt. 695,North James,North Carolina,Kazakhstan,Wholesale,True,2005-04-19,False,2009-02-16
+229,CUST-100229,Christine Johnson,Female,1999-10-23,26,661-425-7715x2650,stephanie14@example.org,6036 Michelle Plain Suite 870,West Angel,New York,Denmark,Wholesale,False,2020-03-10,True,2024-01-08
+230,CUST-100230,Angela Cain,Female,1996-06-30,29,439.541.7681,leejames@example.org,69672 Jorge Ferry Apt. 152,New Christopher,South Dakota,Iceland,Retail,True,2024-02-06,False,2024-09-02
+231,CUST-100231,Jeremy Spencer,Male,1982-10-06,43,+1-223-851-6562x62757,izavala@example.org,897 Stacy Plaza Suite 579,South Kristentown,Texas,Saint Martin,Wholesale,False,2017-09-30,False,2020-02-16
+232,CUST-100232,Bradley Moore,Male,1968-10-21,57,318-605-9048,benjamin18@example.net,8515 Sean Mountain Apt. 624,Randyfurt,Wyoming,Montenegro,Retail,True,2005-01-06,True,2024-05-31
+233,CUST-100233,Jennifer Collins,Female,1975-10-04,50,(347)644-6268,alisonfaulkner@example.com,282 Munoz Terrace Apt. 268,Lake James,Texas,Ukraine,Retail,True,2025-04-24,False,2025-05-03
+234,CUST-100234,Christopher Cox,Male,1976-06-26,49,(465)874-6127,valerie13@example.org,2490 Thomas Lodge,Thompsonmouth,Michigan,Saint Martin,Wholesale,False,1997-10-03,True,2005-06-14
+235,CUST-100235,Eric Summers,Male,1995-03-12,30,+1-995-895-4370x40665,dianawallace@example.net,881 Erica Rapids Apt. 969,East Elizabeth,Indiana,Jamaica,Wholesale,False,2024-01-01,False,2024-09-27
+236,CUST-100236,Cathy Martin,Female,2002-01-08,23,774.439.4801,sevans@example.com,00936 David Mall Suite 104,Port Harrybury,New Mexico,Reunion,Retail,False,2020-04-30,True,2024-08-14
+237,CUST-100237,Frank Gordon,Male,1979-09-17,46,883.945.5895x3678,cpatel@example.org,1950 Tara Highway,Wallsview,Nevada,American Samoa,Online,False,2022-11-09,True,2024-05-22
+238,CUST-100238,Jason Krause,Male,1982-03-08,43,905-251-7267x604,ashleybenson@example.net,895 Elizabeth Square,Lake Bryanmouth,New Hampshire,Nigeria,Retail,True,2003-11-17,True,2025-04-16
+239,CUST-100239,David Jackson,Male,1982-08-30,43,(529)289-7692x508,sfrey@example.org,07847 Durham Ramp Apt. 972,West Marieton,Minnesota,Lithuania,Wholesale,True,2002-02-02,True,2013-06-08
+240,CUST-100240,Christine Fernandez,Female,1990-10-28,35,9495451503,jodywebb@example.net,011 Lynch Wells Suite 443,Luisview,New York,Reunion,Retail,False,2021-11-09,True,2022-01-10
+241,CUST-100241,Michael Williamson,Male,2007-02-01,18,+1-757-471-9915x2963,dean72@example.org,229 Austin Tunnel Apt. 274,Warnerburgh,New York,Montenegro,Online,True,2025-02-03,False,2025-03-09
+242,CUST-100242,Jonathan Howard,Male,1986-11-02,39,001-691-571-1229x9161,angel02@example.org,84373 Doyle Road,Bennettfurt,Florida,Burkina Faso,Online,False,2020-05-15,True,2022-12-28
+243,CUST-100243,Shawn Dixon,Male,2006-08-24,19,(404)328-6587,megan31@example.org,165 Christopher Walk,South Glenda,Maryland,Eritrea,Retail,True,2024-12-25,True,2025-06-18
+244,CUST-100244,Janet Huynh,Female,1984-12-11,41,448-498-7290x72442,casey12@example.net,278 Brian Ranch,Robertburgh,Illinois,Argentina,Online,False,2017-02-10,False,2018-09-08
+245,CUST-100245,Daniel King,Male,1984-11-26,41,001-633-869-2505,leephilip@example.net,6325 Cox Valley,Port Audreyville,Rhode Island,South Africa,Wholesale,True,2022-02-07,True,2022-02-26
+246,CUST-100246,Ashley Ashley,Female,1957-04-29,68,001-409-227-6088,blopez@example.com,29804 Norris Shoals,New Ryan,Michigan,Faroe Islands,Online,False,1991-01-07,False,1991-01-22
+247,CUST-100247,Lindsey Heath,Female,1973-06-11,52,(567)309-8135,williampittman@example.net,0153 Brandon Lake Suite 111,East John,Maine,Argentina,Online,False,2021-11-26,True,2025-07-26
+248,CUST-100248,Vanessa Garrett,Female,1984-12-15,41,+1-330-897-8587x22974,steven33@example.com,879 Jessica Rest Apt. 678,Port Michael,Montana,Iraq,Wholesale,False,2005-08-04,False,2021-02-05
+249,CUST-100249,Bradley Taylor,Male,1993-05-20,32,866-717-7790x21836,zwilliams@example.org,86957 Young Parks,Bellville,Connecticut,Solomon Islands,Wholesale,True,2013-02-21,False,2018-08-30
+250,CUST-100250,Wayne Smith,Male,1985-10-14,40,001-711-730-4222x513,robertschmidt@example.com,00542 Jose Creek Apt. 202,Hallfort,Wisconsin,Falkland Islands (Malvinas),Retail,True,2005-03-16,False,2018-05-18
+251,CUST-100251,James Miller,Male,1992-09-07,33,(740)833-2660x426,sarahcontreras@example.com,247 Renee Causeway Apt. 427,Sanchezville,California,Costa Rica,Wholesale,False,2016-01-16,True,2020-09-01
+252,CUST-100252,Arthur Duncan,Male,1975-06-09,50,822-536-3934,zacharymitchell@example.org,6697 Justin Junction,Port Davidfort,Wisconsin,Angola,Retail,False,2011-07-26,False,2012-07-13
+253,CUST-100253,Franklin Love,Male,2003-02-16,22,7718188941,floresbill@example.com,77114 Garcia Squares Apt. 613,South Dianeton,Indiana,Estonia,Retail,False,2024-07-05,False,2024-10-24
+254,CUST-100254,James Morris,Male,1972-01-28,53,(517)805-0063,elliottsonya@example.net,71372 Fox Fort Suite 961,Crystalberg,South Carolina,Mozambique,Retail,False,2024-07-05,True,2025-06-16
+255,CUST-100255,Evelyn Murphy,Female,1960-06-12,65,4303596227,tmorton@example.net,3156 Wright Wall,Mezabury,Michigan,Kazakhstan,Online,False,2010-12-04,False,2013-09-10
+256,CUST-100256,Mary Meyer,Female,1995-01-26,30,864.667.4474,john20@example.org,567 Andrea Flat,South Deborahberg,Michigan,Puerto Rico,Wholesale,False,2023-09-04,True,2024-04-06
+257,CUST-100257,David Johnson,Male,1959-04-24,66,473.686.5754x585,dwalker@example.org,1013 Tyler Inlet Apt. 305,Clarkside,Massachusetts,Svalbard & Jan Mayen Islands,Wholesale,False,2005-04-23,False,2022-11-29
+258,CUST-100258,Dr. Sandra Roth,Female,1985-12-25,40,598.425.6769x28816,brooke89@example.org,306 Williams Passage Apt. 963,New Susan,New Mexico,Estonia,Online,False,2024-07-25,True,2024-12-23
+259,CUST-100259,Jeffrey Torres,Male,1972-05-10,53,771-395-9924,jessica24@example.org,930 Ruiz Gateway,Ronaldmouth,Mississippi,Sweden,Retail,True,2011-06-25,False,2013-12-26
+260,CUST-100260,Diamond Cole,Female,1963-07-10,62,977.674.4237,johnathanreynolds@example.net,2207 Kyle Orchard,West Bradley,Indiana,Djibouti,Wholesale,False,1999-10-23,False,2007-08-19
+261,CUST-100261,Anthony Miller,Male,2006-02-24,19,779.412.2972,kayla32@example.org,74173 Alejandro Park Apt. 038,Erinfurt,Florida,Poland,Wholesale,True,2025-02-06,False,2025-04-21
+262,CUST-100262,Anne Arnold,Female,1978-07-28,47,(728)377-1108x23195,francokevin@example.com,941 Patricia Pine Suite 311,Gonzalezton,South Carolina,Martinique,Wholesale,True,2000-03-24,False,2003-10-30
+263,CUST-100263,Tina Patel,Female,1959-08-24,66,+1-221-996-1335x914,hsanchez@example.net,13508 Underwood Island Suite 377,Porterborough,Kansas,Gambia,Wholesale,True,1992-08-12,False,2005-07-29
+264,CUST-100264,Steven Randall,Male,1986-10-17,39,+1-496-766-2480x6767,rwilliams@example.org,310 Margaret Lane Apt. 638,West James,Virginia,Faroe Islands,Online,True,2018-01-04,True,2022-05-17
+265,CUST-100265,Andrew Werner,Male,1991-03-02,34,(243)925-7821,bjohnson@example.com,313 Yesenia Village,Port Stephanie,Oklahoma,Andorra,Wholesale,True,2009-10-07,False,2019-06-09
+266,CUST-100266,Christine Silva,Female,1971-10-24,54,256-426-9625x40662,currydenise@example.org,82753 Ian Road Apt. 349,Port Allisonhaven,Louisiana,Mauritius,Online,False,1992-10-17,False,1997-01-31
+267,CUST-100267,Shaun Rangel,Male,1969-03-19,56,+1-292-333-3665,bishopkelly@example.net,1774 Troy Harbors Suite 081,Seantown,Indiana,Malaysia,Wholesale,True,1993-12-23,False,1999-07-13
+268,CUST-100268,Katherine Macias,Female,1991-05-19,34,001-883-600-0623x89273,inolan@example.com,307 Barnett Center,Sarahmouth,Arkansas,Heard Island and McDonald Islands,Retail,True,2020-08-10,False,2020-08-15
+269,CUST-100269,Stacey Henderson,Female,1962-09-27,63,332-538-7295x4859,villaanne@example.org,253 Harrell Drive,Brianberg,Ohio,United States of America,Retail,True,2021-08-22,True,2025-04-09
+270,CUST-100270,Tiffany Clark,Female,1977-08-14,48,901-430-1483x468,chadsmith@example.org,12455 Tyler Village Apt. 742,Anthonyhaven,Mississippi,Germany,Online,False,2017-10-15,True,2023-05-27
+271,CUST-100271,James Graham,Male,1967-10-09,58,+1-312-861-7878x9214,anthonyjohnson@example.com,217 Ryan Fords,Lake Bryan,Iowa,Portugal,Wholesale,False,1989-06-04,True,2004-01-11
+272,CUST-100272,Donald Turner,Male,1966-06-22,59,(544)337-7125x27363,joycerobinson@example.com,583 Thompson Branch Apt. 116,Sophiaport,Minnesota,Lithuania,Wholesale,False,2022-02-17,False,2023-05-24
+273,CUST-100273,Susan Colon,Female,1968-05-12,57,+1-435-445-7268x1606,david37@example.org,194 Mays Road Apt. 649,Dannyshire,Washington,Cocos (Keeling) Islands,Online,True,2016-03-08,False,2023-03-18
+274,CUST-100274,Paula Norman,Female,1985-07-29,40,(701)524-0973x13710,ymorrison@example.com,88177 George Fort,Davidstad,Ohio,China,Online,False,2017-03-06,False,2019-10-30
+275,CUST-100275,Jacob Moon,Male,1973-02-16,52,878-244-6429,wterrell@example.org,296 Velasquez Crossing Apt. 900,Port Glenport,Kansas,Gabon,Wholesale,False,2001-09-15,False,2005-12-08
+276,CUST-100276,Jimmy Burns,Male,2003-05-06,22,001-247-575-1521x039,vasquezlaurie@example.net,8288 Christian Villages,Powersside,Iowa,Tunisia,Wholesale,True,2024-09-26,False,2025-05-20
+277,CUST-100277,Troy Roman,Male,1997-10-05,28,585-414-1925x781,vanessagriffin@example.net,28246 Angela Tunnel Suite 868,Flowersmouth,South Carolina,Hungary,Retail,True,2015-11-12,False,2024-06-24
+278,CUST-100278,Terry Hampton,Male,1970-11-03,55,832-399-4731x2685,richard94@example.org,92316 Conley Ridge Suite 314,Lake Leonard,Georgia,Suriname,Online,False,2010-09-14,True,2021-08-25
+279,CUST-100279,Charles Elliott,Male,1990-11-23,35,641.319.4358x80453,beckmichael@example.net,29009 Lisa Road,East Sara,Illinois,Saint Barthelemy,Online,False,2016-06-20,True,2018-10-24
+280,CUST-100280,Joel Joseph,Male,2004-03-12,21,+1-715-464-5070,peter27@example.com,8782 Shepard Knoll,Matthewsburgh,Ohio,Iraq,Wholesale,True,2023-11-14,True,2024-12-31
+281,CUST-100281,Kimberly Galloway,Female,1971-08-14,54,(590)931-4780x09854,olivia24@example.net,070 Hudson Meadows Suite 757,Port Sharon,Nevada,Aruba,Retail,True,1999-11-21,False,2012-05-24
+282,CUST-100282,Lisa Williams,Female,1996-04-03,29,(607)834-9050,mark91@example.net,58473 Ross Estates,Jessicahaven,West Virginia,Anguilla,Wholesale,True,2021-02-08,False,2021-09-03
+283,CUST-100283,David Christensen,Male,1981-11-29,44,8387970914,xwilliams@example.com,24638 Olsen Circles,Ericfort,Arkansas,Uzbekistan,Online,True,2011-02-16,True,2015-08-31
+284,CUST-100284,Mark Perez,Male,1985-06-06,40,916-738-8135x93524,rgregory@example.org,36246 Hughes Villages,Burnstown,Texas,Guam,Retail,True,2019-01-03,True,2019-08-26
+285,CUST-100285,Jamie Burgess,Female,1957-02-14,68,526.328.9415x4205,tonya93@example.com,5185 Hunt Springs,Lake Elizabeth,Idaho,Mali,Wholesale,False,2017-10-19,True,2021-10-10
+286,CUST-100286,Susan Brown,Female,2000-11-20,25,532.401.6955,edwinbarrera@example.com,592 Gomez Fields Apt. 860,Natashafurt,Kentucky,Sudan,Retail,False,2024-02-02,True,2024-02-26
+287,CUST-100287,Stephen Orozco,Male,1971-02-03,54,714-738-1821,davidnicole@example.net,04414 Parks Oval,West Kevin,Rhode Island,Canada,Retail,True,2021-03-16,False,2023-11-20
+288,CUST-100288,Thomas Chen,Male,1986-09-24,39,930-268-0198,rebecca90@example.org,9610 Mark Loaf Apt. 467,Rachelland,Montana,Libyan Arab Jamahiriya,Retail,False,2009-12-24,True,2014-04-14
+289,CUST-100289,Sarah West,Female,1982-04-27,43,+1-508-289-1732x753,davilakevin@example.com,25119 Roberts View,New Josemouth,Arkansas,Belgium,Online,False,2015-04-30,True,2018-03-20
+290,CUST-100290,Laura Johnson,Female,1981-07-25,44,+1-201-536-6068x143,cassandradavis@example.org,415 Daniels Place,Mallorymouth,Oregon,Wallis and Futuna,Wholesale,False,2013-07-26,False,2019-02-23
+291,CUST-100291,Lisa Wilson,Female,2000-12-20,25,(493)231-8343x546,tarawood@example.net,02911 Jackson Tunnel Suite 221,West Joshuabury,Texas,Benin,Online,False,2019-05-16,True,2023-06-09
+292,CUST-100292,Anna Evans,Female,1992-05-22,33,(763)672-3590,dukebarry@example.net,85807 Michael Plain Suite 706,Port Bridgetchester,New York,Burundi,Online,True,2017-09-02,True,2023-05-03
+293,CUST-100293,Maria Smith,Female,1955-04-21,70,+1-815-754-0400,karenwillis@example.net,8924 Le Skyway Suite 737,Bentleyshire,Minnesota,El Salvador,Retail,False,2003-09-07,False,2016-01-25
+294,CUST-100294,William Evans,Male,1987-04-13,38,314.646.7321x28601,smithjeffrey@example.net,123 Baker Trafficway,West Jasonland,Wyoming,Angola,Online,False,2019-10-06,False,2025-05-15
+295,CUST-100295,Frank Pugh,Male,1963-12-23,62,(435)414-1771,perezjoshua@example.org,1470 Baker Forge Suite 263,Gomezchester,Oregon,Syrian Arab Republic,Online,True,1991-06-13,True,2018-01-22
+296,CUST-100296,Ricardo Johnson,Male,1968-07-18,57,(991)851-3080x42489,david96@example.org,55156 Davis Fords,Erinfurt,New York,Suriname,Retail,True,2005-02-10,False,2022-09-02
+297,CUST-100297,Ashley Mejia,Female,1969-10-05,56,+1-317-462-0199x90760,mariaochoa@example.org,606 Jamie Lodge Apt. 562,Matthewtown,South Dakota,Tunisia,Online,False,1993-02-07,False,1994-08-27
+298,CUST-100298,Garrett Morales,Male,1958-01-15,67,+1-813-956-7850,martinezvalerie@example.org,5443 Valerie Rapids Suite 973,Hurstshire,Alabama,Liberia,Retail,False,2018-07-14,True,2023-04-06
+299,CUST-100299,Lawrence Payne,Male,1992-05-01,33,(996)804-6485x1661,ashley85@example.com,76453 Stokes Extensions Suite 380,Christopherside,Colorado,South Georgia and the South Sandwich Islands,Retail,True,2022-02-12,False,2024-03-27
+300,CUST-100300,Susan Dawson,Female,1989-09-26,36,001-353-866-4970x847,larsonthomas@example.org,1336 Henson Mountain,North Amanda,Louisiana,Italy,Online,False,2009-04-13,False,2011-06-27
+301,CUST-100301,Lisa Stevens,Female,2001-06-05,24,403-359-8932,debbie29@example.net,64396 Fischer Lake Apt. 016,Maryville,Arizona,Liberia,Wholesale,False,2020-08-27,True,2023-02-10
+302,CUST-100302,Matthew Rivera,Male,1970-11-24,55,4055055074,adamsallison@example.org,01011 Beck Route,West Juanfurt,Maine,Antarctica (the territory South of 60 deg S),Retail,True,2012-04-14,False,2015-06-22
+303,CUST-100303,Ashley Hernandez,Female,1978-10-10,47,323-886-3817x9072,cookryan@example.net,16777 Derrick Ferry Apt. 335,Lake Alexisburgh,Mississippi,United States Minor Outlying Islands,Wholesale,False,2000-02-14,True,2024-03-06
+304,CUST-100304,Samantha King,Female,1975-10-31,50,(582)886-5403x43401,williamroberts@example.org,851 Ryan Stravenue,Jonesland,Idaho,Uganda,Online,False,2021-08-21,True,2025-03-17
+305,CUST-100305,Laura Christian,Female,1995-11-20,30,279.387.3397,jason54@example.org,779 Cox Island Apt. 677,Kimland,Washington,Mauritius,Wholesale,True,2025-03-13,False,2025-03-29
+306,CUST-100306,Courtney Wright,Female,2006-02-08,19,001-878-269-4489x196,jasonmason@example.net,962 Christopher Trail Suite 396,Lake Patrickborough,North Carolina,Cook Islands,Online,False,2025-01-09,False,2025-03-19
+307,CUST-100307,Felicia Jones,Female,1977-02-26,48,382.274.0321,brownjacob@example.org,40984 Underwood Inlet,Port Robert,Wisconsin,Somalia,Retail,True,2009-09-13,False,2015-09-23
+308,CUST-100308,Judy Burns,Female,1988-08-12,37,001-712-737-3441x5811,jmyers@example.com,0459 Jeffrey Forge Suite 824,Newtonburgh,Indiana,Burkina Faso,Online,False,2014-03-23,False,2017-03-30
+309,CUST-100309,Katelyn Delacruz,Female,1973-03-09,52,416-723-8952,rayrussell@example.net,921 Keller Plaza Apt. 954,Lake Samantha,Washington,Croatia,Retail,False,2020-08-28,True,2023-12-04
+310,CUST-100310,Kimberly Giles,Female,2006-05-28,19,(413)850-3571,jjones@example.com,3290 Malone Ridges Suite 935,Adamfurt,Alaska,Kuwait,Online,True,2024-07-24,True,2025-06-30
+311,CUST-100311,Lynn Tyler,Female,2006-12-23,19,001-259-334-4199,kevinchandler@example.net,7924 Randall Junctions,Sanchezchester,Alaska,Congo,Retail,True,2025-01-07,True,2025-03-30
+312,CUST-100312,Cory Reed,Male,1980-10-22,45,+1-396-550-0976x86840,martinezjoshua@example.org,6206 Debra Field,West Clifford,Texas,North Macedonia,Online,False,1998-11-29,False,2003-04-22
+313,CUST-100313,Charlene Hall,Female,1986-03-14,39,4012909420,qwade@example.com,42647 Cameron Mountain Suite 753,East Peter,South Dakota,Malawi,Online,False,2011-07-05,False,2012-01-30
+314,CUST-100314,Andres Mckinney,Male,1997-04-15,28,(245)611-4630,rebeccasimon@example.net,1660 Khan Freeway,Port Matthew,Florida,Heard Island and McDonald Islands,Wholesale,False,2018-01-18,False,2022-08-16
+315,CUST-100315,Joshua Ray,Male,1955-11-17,70,213.582.6316x071,brittany03@example.com,1292 Tara Path Suite 000,West Amber,Oregon,Yemen,Wholesale,True,2024-10-13,False,2025-04-02
+316,CUST-100316,Sarah Sweeney,Female,1967-09-27,58,001-246-360-7798x10136,rvillanueva@example.org,11758 Walters Parkways Apt. 137,North Ryan,Vermont,Palau,Retail,True,2000-08-16,True,2002-08-03
+317,CUST-100317,Andrew Cunningham,Male,1984-08-15,41,554-482-1621x55655,kwilliams@example.net,80099 Washington Mountains,South Roberthaven,Nebraska,Lebanon,Wholesale,False,2016-09-07,False,2017-03-21
+318,CUST-100318,Cassandra Castillo,Female,1977-04-26,48,001-799-701-9957x342,christopherwatkins@example.org,7451 Thomas Drive Apt. 517,Nicoleside,Nebraska,Western Sahara,Retail,False,2004-04-20,True,2010-11-02
+319,CUST-100319,Robert Taylor,Male,1986-07-25,39,001-253-760-2929x6830,barbarasalazar@example.com,250 Teresa Park Apt. 533,Rebeccafort,New Hampshire,Austria,Online,True,2008-01-02,True,2023-02-11
+320,CUST-100320,Brittney Valdez,Female,1976-08-16,49,481.580.7942,jporter@example.org,011 Samuel Landing Suite 986,Williamsbury,New York,Macao,Online,False,2002-10-31,False,2009-01-14
+321,CUST-100321,Joseph Diaz,Male,1972-10-17,53,537-285-4953x751,hannahewing@example.org,8334 Travis Lane,Paulshire,Montana,Malta,Retail,True,2014-06-20,True,2014-11-30
+322,CUST-100322,Melanie Contreras,Female,1980-12-16,45,(371)357-3266x88479,jessica90@example.com,342 Bonnie Tunnel,Jeffreyshire,Kentucky,Indonesia,Retail,False,2012-05-30,True,2015-10-30
+323,CUST-100323,Jeremy Graham,Male,2007-01-26,18,425.281.8333,patrickhooper@example.net,34195 Kayla Brooks Suite 776,West Andrewview,Georgia,Timor-Leste,Retail,True,2025-06-10,True,2025-07-11
+324,CUST-100324,Brittany Ramsey,Female,1958-05-21,67,539-562-6462,emckinney@example.org,493 John Parkways,New Betty,Louisiana,Poland,Online,False,2014-09-29,True,2020-10-13
+325,CUST-100325,Lisa Lawson,Female,1955-07-14,70,545-612-4084x98841,maddenlouis@example.org,566 Cooper Locks Apt. 055,Victorfort,Nevada,Panama,Online,True,2019-10-27,True,2024-01-10
+326,CUST-100326,Michelle Luna,Female,1976-08-13,49,536.451.4001,grantjoshua@example.net,035 Perez Walk,Marcustown,Hawaii,Niger,Retail,True,2017-05-05,True,2023-01-08
+327,CUST-100327,Shawn Navarro,Male,1963-07-27,62,310-490-1411x017,cookrussell@example.net,5337 Adams Loop Suite 695,Pricestad,Utah,Georgia,Retail,False,2011-07-07,False,2022-03-14
+328,CUST-100328,Kenneth Morgan,Male,1989-01-28,36,950.502.6581x167,smiller@example.net,396 Tasha Circle Apt. 878,North Jonathonville,Indiana,Montenegro,Online,False,2009-12-18,True,2011-09-11
+329,CUST-100329,Matthew Garcia,Male,2003-04-17,22,001-673-532-6972x176,leslie43@example.org,4757 David Terrace,Lyonsbury,Louisiana,Angola,Wholesale,True,2025-05-13,True,2025-06-06
+330,CUST-100330,David Espinoza,Male,2004-01-01,21,(847)669-4134,bryan84@example.org,02460 Julia Summit,Margaretview,Mississippi,Senegal,Online,True,2023-09-05,True,2023-11-12
+331,CUST-100331,Rebecca Edwards,Female,1963-01-19,62,001-793-971-3318x6500,carlachristensen@example.net,787 Shannon Light,Bergborough,Kentucky,Ireland,Wholesale,True,1988-09-15,False,2001-07-28
+332,CUST-100332,Bonnie Underwood,Female,1984-02-26,41,001-657-488-7938,willie09@example.org,97446 Sandoval Cliffs,North Bettyland,Mississippi,Ukraine,Retail,False,2014-07-18,True,2020-12-11
+333,CUST-100333,Charlene Rodriguez,Female,1957-01-13,68,881.928.2168,douglas82@example.org,5594 Angela Mall,South Rhondachester,Kentucky,Falkland Islands (Malvinas),Online,False,1993-02-05,False,2002-06-25
+334,CUST-100334,Joshua Sherman,Male,1964-08-21,61,263.693.8683x619,gwatson@example.org,60388 Jackson Greens,Port Jessicaside,Idaho,Bouvet Island (Bouvetoya),Wholesale,False,2003-03-13,True,2005-01-16
+335,CUST-100335,Jason Allen,Male,1980-10-25,45,+1-270-777-3516x51630,gloverjasmine@example.com,135 Caldwell Drive,Moorefort,Indiana,Cape Verde,Retail,True,2000-03-11,False,2000-09-30
+336,CUST-100336,Joseph Elliott,Male,1978-01-17,47,605-510-0511x4262,sarahstrickland@example.com,0502 Larry Ways Apt. 937,Lake Ryan,Illinois,Marshall Islands,Online,True,2011-12-31,False,2025-07-01
+337,CUST-100337,Melanie Scott,Female,1967-07-31,58,001-690-335-9378x6742,woodchristopher@example.com,6582 Adam Knoll,South Gregoryhaven,Pennsylvania,Saint Kitts and Nevis,Retail,True,1986-04-28,True,1991-04-10
+338,CUST-100338,Craig Taylor,Male,1990-12-12,35,879-411-2987,padillaalyssa@example.net,1356 Robinson Station Suite 307,Banksmouth,Kentucky,New Zealand,Online,False,2013-07-03,False,2021-04-16
+339,CUST-100339,Duane Pittman,Male,1971-07-02,54,355-595-2132x038,jcraig@example.net,0873 Ronald Underpass Apt. 789,Bryanmouth,Missouri,Venezuela,Retail,True,2003-04-25,True,2022-04-10
+340,CUST-100340,Joe Allen,Male,1972-01-07,53,3408670106,johnmills@example.org,19605 Hall Green Suite 687,Lake Danielbury,Maryland,Kenya,Retail,False,2000-01-20,True,2009-04-05
+341,CUST-100341,Amanda Hall,Female,2000-10-20,25,369-333-5709x1495,jennifer42@example.net,38789 Howard Courts Apt. 056,Lake Adrianfort,Wyoming,Macao,Online,False,2020-11-26,True,2020-12-02
+342,CUST-100342,Brandon Rodriguez,Male,1984-04-06,41,(921)784-3039,jason45@example.org,484 Rice Trail Suite 598,North Tiffany,Alabama,Comoros,Online,True,2016-08-09,True,2021-11-24
+343,CUST-100343,Malik Andrews,Male,1981-06-15,44,5152920866,whitestephen@example.com,8088 Kaitlyn Expressway Suite 989,Tracyfort,Iowa,Solomon Islands,Wholesale,True,2014-08-22,True,2018-07-01
+344,CUST-100344,Mr. Chad Wise MD,Male,1985-04-14,40,549-564-7124x865,palmerbrian@example.net,31777 Shawn Knolls Apt. 222,South Thomasview,Colorado,Moldova,Wholesale,False,2006-08-25,False,2009-07-31
+345,CUST-100345,Tyler Nichols,Male,1969-02-13,56,001-905-284-0552x96483,morgan22@example.com,7739 Shirley Prairie,Jonathanshire,Colorado,Kiribati,Online,True,2022-05-02,True,2024-03-11
+346,CUST-100346,Monica Blackwell,Female,1993-04-04,32,(533)925-4949x940,tricia96@example.com,973 Robinson Field,Nicholashaven,Ohio,Gambia,Online,False,2021-02-18,True,2023-10-20
+347,CUST-100347,Alejandro White,Male,2003-10-27,22,4603484928,bradley85@example.com,64621 Paul Meadow,Whiteview,Ohio,Cayman Islands,Retail,True,2024-09-06,False,2025-05-17
+348,CUST-100348,Judith King,Female,1965-02-16,60,588.739.3905x43311,avilastephen@example.com,0522 Woods Parkway Suite 984,Chadchester,Washington,Bangladesh,Online,True,1983-11-03,False,2005-01-11
+349,CUST-100349,Christopher Willis,Male,1994-08-07,31,238.769.5570x32141,simpsonraymond@example.org,642 Obrien Points,New Ashleymouth,Wisconsin,Monaco,Online,False,2013-02-04,True,2021-08-05
+350,CUST-100350,Kathryn Mcpherson,Female,2001-08-13,24,001-885-616-2800x40066,lisaromero@example.net,23632 Barnes Land Suite 655,Robinstad,Utah,Guadeloupe,Retail,False,2022-04-20,False,2022-09-19
+351,CUST-100351,Sarah Sweeney,Female,1959-03-27,66,480.794.9589,aprilsherman@example.com,245 Tiffany Loaf,New Katherine,Florida,Honduras,Retail,False,1997-10-31,True,2017-10-10
+352,CUST-100352,Andrew Wells,Male,1975-09-26,50,278.999.4755,randycastaneda@example.org,7864 Mary Turnpike,Johnsonmouth,Minnesota,Rwanda,Retail,True,2011-07-15,True,2019-05-09
+353,CUST-100353,Andrea Hayes,Female,1975-02-26,50,676.849.7492x231,myoung@example.org,7741 Nathan Junction,Scottburgh,Hawaii,Montserrat,Wholesale,False,1994-03-10,False,2023-12-19
+354,CUST-100354,Heather Fowler,Female,1997-09-26,28,671.826.9890x798,wlee@example.net,8818 Robin Ramp,East Tiffanymouth,Kentucky,Belarus,Online,False,2022-11-17,True,2023-07-23
+355,CUST-100355,Ashley Kennedy,Female,1980-04-26,45,+1-908-753-0954x782,jessicaspears@example.com,616 Zachary Common Suite 031,North Amber,Oregon,Norfolk Island,Wholesale,True,2015-06-11,False,2018-02-22
+356,CUST-100356,Michael Gonzalez,Male,1980-12-08,45,9512786120,ogates@example.com,5219 Christopher Shoal,Lake Michael,Colorado,Australia,Online,False,2009-06-09,True,2013-10-04
+357,CUST-100357,Terry Madden,Male,2002-09-15,23,001-312-510-3987,erogers@example.com,1091 Anna Locks Apt. 731,New Tracieshire,New Hampshire,Tonga,Wholesale,False,2021-06-13,True,2021-09-16
+358,CUST-100358,Doris Garcia,Female,1981-10-21,44,+1-421-504-1406x3608,bensonjohn@example.org,62792 Jared Square,Bethanyton,Alabama,Czech Republic,Online,True,2000-04-06,False,2007-03-15
+359,CUST-100359,Craig Kennedy,Male,2007-06-01,18,(245)961-1661x28064,garycook@example.net,54215 Randall Park Suite 953,East Nataliefurt,Washington,Croatia,Online,False,2025-07-01,False,2025-07-03
+360,CUST-100360,Janet Martin,Female,1981-05-03,44,964-997-7559,conleymarcus@example.com,599 Hill Corners Suite 851,New Cesar,Alaska,India,Online,True,2005-10-06,False,2025-04-29
+361,CUST-100361,Mr. Charles Jones,Male,1993-04-30,32,525.223.4759x0011,joshua22@example.org,4720 Tina Street Suite 893,North Tiffanyville,Utah,Iceland,Wholesale,False,2022-12-01,True,2024-12-31
+362,CUST-100362,Becky Davis,Female,1978-03-02,47,9625163672,briancollins@example.net,83287 Jeffrey Underpass,South Trevorville,Vermont,El Salvador,Wholesale,True,2017-11-02,True,2020-02-04
+363,CUST-100363,Kimberly Miller,Female,1999-05-19,26,336.696.8415x7194,kendraandrews@example.com,297 Stephanie Neck,Larsonberg,Michigan,Bahamas,Online,True,2023-02-18,False,2024-06-07
+364,CUST-100364,Dr. Michele Ward,Female,1969-02-24,56,745.775.3759x8635,whitneyberg@example.net,01562 Cynthia Harbors,West Julieview,Ohio,Reunion,Online,True,2005-04-18,False,2022-01-13
+365,CUST-100365,Natalie Taylor,Female,1993-03-16,32,(965)210-9223,ostephens@example.com,7851 Mckay Throughway,West Jamesville,Ohio,Afghanistan,Retail,False,2019-03-24,True,2025-01-31
+366,CUST-100366,Amanda Anderson,Female,1984-08-09,41,+1-256-650-0331x538,kimberlyhoover@example.com,1273 Ricky Locks,Amandaborough,Maine,San Marino,Retail,False,2008-02-19,True,2025-04-23
+367,CUST-100367,Samuel Morgan,Male,1955-10-04,70,424-386-0079x4409,hgomez@example.org,59118 Mario Junction,Markfort,Idaho,Sweden,Wholesale,True,1997-07-15,True,2025-06-23
+368,CUST-100368,Angel Howard,Female,1956-02-27,69,(903)347-5862x854,britter@example.net,5112 Campbell Landing,Lake Jeffreyland,Massachusetts,Liechtenstein,Wholesale,False,2017-07-23,False,2019-09-14
+369,CUST-100369,Anthony Jones,Male,1994-08-04,31,+1-835-845-9197,toddadams@example.com,71160 Carr Mall,Tranview,Iowa,British Indian Ocean Territory (Chagos Archipelago),Wholesale,True,2020-09-04,True,2022-10-23
+370,CUST-100370,Colin Warren,Male,1990-02-01,35,(568)571-4749x8327,williamfreeman@example.net,22909 Garcia Cove Apt. 986,North Anitachester,Connecticut,Solomon Islands,Retail,True,2009-04-16,True,2010-07-22
+371,CUST-100371,Jillian Hickman,Female,2004-07-30,21,4397054787,mannmichael@example.org,1428 Long Gateway Apt. 953,Kingtown,South Dakota,Central African Republic,Wholesale,False,2024-12-28,True,2025-04-18
+372,CUST-100372,Shawn Weber,Male,1987-04-01,38,+1-795-998-8791x6437,nchapman@example.org,090 Mendez Club Apt. 426,Derrickchester,New Jersey,Mauritius,Wholesale,False,2021-01-04,False,2022-03-17
+373,CUST-100373,James Hall,Male,1954-09-01,71,267-773-5223x53869,salazartracey@example.com,45789 Allen Radial Suite 661,East Heather,Alabama,Congo,Online,True,1995-03-18,False,2004-06-21
+374,CUST-100374,Anthony Miles,Male,2006-12-11,19,+1-353-750-0882x1981,csmith@example.com,989 Simmons Ranch,East Pamela,Florida,Chad,Retail,False,2025-01-28,True,2025-03-02
+375,CUST-100375,Terry Smith,Male,1993-07-16,32,+1-502-781-9005,xmccoy@example.com,67858 Jordan Walk Apt. 434,Lake Kimberly,Utah,Norfolk Island,Online,True,2013-11-13,True,2019-09-09
+376,CUST-100376,Timothy Cunningham,Male,1979-11-30,46,364.805.1924,angela75@example.net,89878 Jones Harbors,Lovefurt,Georgia,Mexico,Online,False,2005-08-08,True,2020-10-23
+377,CUST-100377,Joseph Pittman,Male,1966-06-19,59,+1-645-737-7597x6612,karen03@example.net,1828 White Orchard,Emilyberg,California,United Kingdom,Online,True,1999-06-30,False,2020-03-04
+378,CUST-100378,David Owens,Male,1994-12-25,31,8259731151,derek29@example.com,240 Sandra Path Apt. 724,East Alexanderstad,Iowa,Montserrat,Online,True,2023-05-17,False,2024-06-06
+379,CUST-100379,Michael Robinson,Male,1997-03-17,28,294.588.7711,khopkins@example.org,357 Eric Burg Suite 607,New Heatherton,Connecticut,North Macedonia,Online,False,2024-05-16,False,2025-02-02
+380,CUST-100380,Devon Lopez,Male,1963-12-29,62,7729372681,charlesrios@example.net,480 Townsend River,Clarkport,Pennsylvania,Italy,Wholesale,False,1999-05-20,True,2012-06-05
+381,CUST-100381,Keith Patterson,Male,1976-01-22,49,782-359-9562,ygarcia@example.org,95411 Woods Dale Apt. 376,South Davidchester,Indiana,Wallis and Futuna,Online,True,2022-01-26,True,2022-04-04
+382,CUST-100382,Patricia Harvey,Female,2001-09-10,24,868-555-3314,jonathan58@example.net,948 Amber Ville,Williamsland,Georgia,Palestinian Territory,Wholesale,False,2019-12-11,True,2020-01-12
+383,CUST-100383,Jason Melton,Male,2006-10-05,19,944.355.5597x3827,michael14@example.net,21951 Crystal Viaduct,West Monica,New York,Serbia,Online,False,2025-03-27,False,2025-05-04
+384,CUST-100384,Aaron Young,Male,1980-01-14,45,799-596-1474,coxnichole@example.net,20123 Rose Union,West Josephview,Missouri,Hong Kong,Wholesale,False,2015-01-01,False,2015-05-04
+385,CUST-100385,Ariel Payne,Female,1959-03-02,66,7293470008,lopezsara@example.com,15445 Roger Islands,West Jameschester,Tennessee,Uruguay,Retail,True,1987-09-30,False,2013-01-06
+386,CUST-100386,Gregory Ortega,Male,2004-05-20,21,(328)960-7725x77360,dawsonmichael@example.net,03313 Amber Knoll Apt. 741,Ryanville,Iowa,Belize,Online,False,2023-10-02,False,2024-12-24
+387,CUST-100387,Brooke Erickson,Female,1996-05-12,29,780-446-9120x6278,michael32@example.com,510 Anderson Parkway Suite 518,South Richard,New Hampshire,Brazil,Wholesale,False,2017-01-05,False,2021-01-19
+388,CUST-100388,Michael Walsh,Male,1979-02-04,46,517-994-3816x44209,hortonlauren@example.net,52912 Billy Villages,Jessicastad,California,Oman,Online,False,2014-11-10,False,2016-04-05
+389,CUST-100389,Ashley Cox,Female,1986-08-03,39,+1-911-606-1161x843,barnesbrian@example.net,310 Brown Canyon Apt. 424,Morrisbury,Alabama,Bahrain,Retail,True,2013-09-19,True,2019-06-30
+390,CUST-100390,Timothy Blackburn,Male,1965-02-06,60,001-641-533-0069x7527,itate@example.com,4813 Hicks Valleys Apt. 386,West Francisco,Virginia,Heard Island and McDonald Islands,Wholesale,False,2008-10-17,True,2025-04-30
+391,CUST-100391,Shannon Williams MD,Female,1995-01-23,30,(348)339-3577x766,tshaw@example.net,8590 Samuel Turnpike Apt. 285,New Rachelville,South Dakota,Fiji,Retail,True,2015-03-01,True,2016-04-25
+392,CUST-100392,Jonathan Cook,Male,1997-01-01,28,+1-497-586-6648x43833,kimberly36@example.com,8456 Jackson Falls,Amandachester,Oregon,Malawi,Online,False,2020-03-22,True,2021-06-13
+393,CUST-100393,Nicholas Mcdonald,Male,1998-04-28,27,(450)893-1193x591,snyderkaren@example.net,66723 Kyle Cape Suite 400,East Lisa,New Mexico,South Africa,Online,True,2022-11-27,True,2024-12-28
+394,CUST-100394,John Patel,Male,1985-09-16,40,4203191794,robertmontgomery@example.org,99266 Gregory Squares Suite 637,Amandaside,Massachusetts,Fiji,Wholesale,False,2011-12-13,True,2017-08-19
+395,CUST-100395,Tara Phillips MD,Female,1975-12-22,50,255.977.7261x0405,janetoliver@example.net,39273 Stacy Square Apt. 936,East Joseph,Connecticut,Nauru,Wholesale,False,2009-09-08,True,2023-02-25
+396,CUST-100396,Gabriel Lopez,Male,1959-11-30,66,+1-699-347-5248x27045,lopezpaul@example.com,3303 Alison Lake,North Nicolemouth,South Dakota,Isle of Man,Wholesale,False,2010-03-06,True,2018-01-15
+397,CUST-100397,Tonya Velasquez,Female,1966-08-12,59,001-286-997-6795x6803,hopkinsmichael@example.net,352 Amber Groves Apt. 081,West Tricia,Virginia,Saint Helena,Retail,False,1991-09-07,False,2011-05-28
+398,CUST-100398,Neil Perez,Male,1966-06-06,59,883.688.2192x24112,woodamy@example.org,279 Williams Park,Williamhaven,Washington,Taiwan,Wholesale,True,1991-11-24,False,2014-02-06
+399,CUST-100399,Maria Sims,Female,1991-07-16,34,001-455-876-2953x4067,callahanteresa@example.org,593 Butler Branch Suite 064,Hamiltonmouth,Oregon,Suriname,Retail,True,2015-09-18,False,2017-01-03
+400,CUST-100400,Christopher Reid,Male,1960-05-12,65,872.718.9971,walkermiranda@example.net,513 Bernard Loaf,Snyderhaven,California,Papua New Guinea,Retail,False,2005-04-17,False,2023-01-09

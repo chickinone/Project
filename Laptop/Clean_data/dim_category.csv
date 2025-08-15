@@ -1,0 +1,9 @@
+﻿CategoryKey,CategoryID,CategoryName,Description
+1,CAT001,Gaming,High-performance laptops for gaming and heavy graphics tasks.
+2,CAT002,Ultrabook,"Lightweight, thin, and portable laptops for mobility."
+3,CAT003,Business,Reliable laptops with security features for office and enterprise use.
+4,CAT004,Student,Affordable laptops suitable for school and college students.
+5,CAT005,Creator,"Laptops with powerful CPU & GPU for content creators, designers, editors."
+6,CAT006,2-in-1,Convertible laptops with touchscreen and tablet mode.
+7,CAT007,Workstation,"High-end machines for engineering, AI, and professional applications."
+8,CAT008,Everyday Use,"Laptops for basic tasks like browsing, email, and media."

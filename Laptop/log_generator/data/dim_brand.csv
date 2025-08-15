@@ -1,0 +1,12 @@
+﻿BrandKey,BrandID,BrandName,Country,FoundedYear,Website
+1,BR001,Acer,Taiwan,1976,https://www.acer.com
+2,BR002,Apple,USA,1976,https://www.apple.com
+3,BR003,Asus,Taiwan,1989,https://www.asus.com
+4,BR004,Dell,USA,1984,https://www.dell.com
+5,BR005,Gigabyte,Taiwan,1986,https://www.gigabyte.com
+6,BR006,HP,USA,1939,https://www.hp.com
+7,BR007,Lenovo,China,1984,https://www.lenovo.com
+8,BR008,Lg,Unknown,1980,
+9,BR009,Macbook,USA,2006,https://www.apple.com/macbook
+10,BR010,Msi,Unknown,1999,
+11,BR011,Samsung,South Korea,1938,https://www.samsung.com

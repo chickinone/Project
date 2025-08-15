@@ -1,0 +1,14 @@
+# --- Cluster basics
+jobmanager.rpc.address: jobmanager
+rest.port: 8081
+parallelism.default: 1
+taskmanager.numberOfTaskSlots: 2
+
+# --- Memory (nên set để JM/TM ổn định)
+jobmanager.memory.process.size: 1600m
+taskmanager.memory.process.size: 2048m
+
+# --- Khác
+classloader.resolve-order: parent-first
+blob.server.port: 6124
+query.server.port: 6125

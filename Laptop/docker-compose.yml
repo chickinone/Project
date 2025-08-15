@@ -1,0 +1,119 @@
+version: "3.8"
+
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    container_name: flink-zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+    ports: ["2181:2181"]
+    networks: [flink_net]
+    restart: unless-stopped
+
+  kafka:
+    image: bitnami/kafka:3.6.0
+    container_name: flink-kafka
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    networks:
+      - flink_net
+
+
+  postgres:
+    image: postgres:15
+    container_name: flink-postgres
+    environment:
+      POSTGRES_DB: laptopdb
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123
+    volumes:
+      - ./FlinkPostgres/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports: ["5432:5432"]
+    networks: [flink_net]
+    restart: unless-stopped
+
+  adminer:
+    image: adminer
+    container_name: flink-adminer
+    depends_on: [postgres]
+    ports: ["8080:8080"]
+    networks: [flink_net]
+    restart: unless-stopped
+
+  jobmanager:
+    image: flink:1.17
+    container_name: flink-jobmanager
+    command: jobmanager
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    ports:
+      - "8081:8081"   # Flink Web UI
+      - "6123:6123"   # RPC
+    volumes:
+      - ./FlinkPostgres/flink/flink-conf.yaml:/opt/flink/conf/flink-conf.yaml    # cấu hình cluster
+      - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib                           # JAR để pipeline.jars tham chiếu
+      # Mount TỪNG file connector vào /opt/flink/lib (không đè cả thư mục)
+      - ./FlinkPostgres/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar:/opt/flink/lib/flink-sql-connector-kafka-1.17.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar:/opt/flink/lib/flink-connector-jdbc-3.1.1-1.17.jar
+      - ./FlinkPostgres/flink/usrlib/postgresql-42.6.0.jar:/opt/flink/lib/postgresql-42.6.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-json-1.17.0.jar:/opt/flink/lib/flink-json-1.17.0.jar
+    networks: [flink_net]
+    restart: unless-stopped
+
+  taskmanager:
+    image: flink:1.17
+    container_name: flink-taskmanager
+    command: taskmanager
+    depends_on: [jobmanager]
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    volumes:
+      - ./FlinkPostgres/flink/flink-conf.yaml:/opt/flink/conf/flink-conf.yaml
+      - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib
+      - ./FlinkPostgres/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar:/opt/flink/lib/flink-sql-connector-kafka-1.17.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar:/opt/flink/lib/flink-connector-jdbc-3.1.1-1.17.jar
+      - ./FlinkPostgres/flink/usrlib/postgresql-42.6.0.jar:/opt/flink/lib/postgresql-42.6.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-json-1.17.0.jar:/opt/flink/lib/flink-json-1.17.0.jar
+    networks: [flink_net]
+    restart: unless-stopped
+
+  # Submitter có Python3 + PyFlink
+  flink-job:
+    build:
+      context: ./FlinkPostgres/flink
+      dockerfile: Dockerfile
+    container_name: flink-submit-job
+    depends_on: [kafka, postgres, jobmanager]
+    command: bash -lc "/opt/flink/bin/flink run -m jobmanager:8081 -Dpython.client.executable=/usr/bin/python3 -Dpython.executable=/usr/bin/python3 -py /opt/flink/flink_job.py -d && tail -f /dev/null"
+    volumes:
+      - ./FlinkPostgres/flink/flink_job.py:/opt/flink/flink_job.py
+      - ./FlinkPostgres/flink/pyflink-conf.yaml:/opt/flink/conf/pyflink-conf.yaml # (tùy chọn, đã set -D ở trên)
+      - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib
+      - ./FlinkPostgres/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar:/opt/flink/lib/flink-sql-connector-kafka-1.17.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar:/opt/flink/lib/flink-connector-jdbc-3.1.1-1.17.jar
+      - ./FlinkPostgres/flink/usrlib/postgresql-42.6.0.jar:/opt/flink/lib/postgresql-42.6.0.jar
+      - ./FlinkPostgres/flink/usrlib/flink-json-1.17.0.jar:/opt/flink/lib/flink-json-1.17.0.jar
+    networks: [flink_net]
+    restart: "no"
+
+  # (tuỳ chọn) Producer CSV -> Kafka
+  log_generator:
+    build:
+      context: ./log_generator
+    container_name: log_generator
+    depends_on: [kafka]
+    environment: { PYTHONUNBUFFERED: "1" }
+    volumes:
+      - ./log_generator/data:/app/data
+    networks: [flink_net]
+    restart: unless-stopped
+
+networks:
+  flink_net: {}
