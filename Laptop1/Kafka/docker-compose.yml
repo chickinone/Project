@@ -26,7 +26,7 @@ services:
     restart: unless-stopped
 
   flink-jobmanager:
-    build: ./Flink                    # ⚠️ Build từ Dockerfile trong thư mục Flink
+    build: ./Flink                    
     container_name: flink_jobmanager
     ports:
       - "8081:8081"
@@ -34,8 +34,8 @@ services:
     environment:
       - JOB_MANAGER_RPC_ADDRESS=flink-jobmanager
     volumes:
-      - ./Flink/jars:/opt/flink/usrlib          # Kafka connector JARs
-      - ./Flink/flink_job.py:/opt/flink/flink_job.py  # Python job
+      - ./Flink/jars:/opt/flink/usrlib          
+      - ./Flink/flink_job.py:/opt/flink/flink_job.py  
 
   flink-taskmanager:
     build: ./Flink
@@ -54,12 +54,23 @@ services:
     restart: always
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: yourpassword       # ⚠️ Đổi nếu cần
+      POSTGRES_PASSWORD: yourpassword       
       POSTGRES_DB: laptopdb
     ports:
       - "5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
+  log_generator:
+    build:
+      context: ./log_generator
+    container_name: log_generator
+    depends_on:
+      - kafka
+    volumes:
+      - ./log_generator/data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
 
 volumes:
   pgdata:
