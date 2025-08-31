@@ -31,7 +31,7 @@ while True:
         button.click()
         time.sleep(random.uniform(3, 6))
     except:
-        print("✅ Không còn nút 'Xem thêm', đã tải hết sản phẩm.")
+        print(" Không còn nút 'Xem thêm', đã tải hết sản phẩm.")
         break
 
 def scroll_down():

@@ -25,4 +25,4 @@ for filename in os.listdir(fact_dir):
 
 producer.flush()
 producer.close()
-print("\n✅ Finished sending all fact data to Kafka.")
+print("\n Finished sending all fact data to Kafka.")

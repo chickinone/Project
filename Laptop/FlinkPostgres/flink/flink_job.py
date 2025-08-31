@@ -86,9 +86,15 @@ tables = {
     "dim_category": """
         categorykey INT, categoryid STRING, categoryname STRING, description STRING
     """,
-    "dim_employee": """
-        employeekey INT, employeeid STRING, fullname STRING, gender STRING, position STRING,
-        storekey INT, hiredate DATE, isactive BOOLEAN
+        "dim_employee": """
+        employeekey INT,
+        employeeid STRING,
+        fullname STRING,
+        gender STRING,
+        `position` STRING,      -- dùng backtick để escape keyword
+        storekey INT,
+        hiredate DATE,
+        isactive BOOLEAN
     """,
     "dim_store": """
         storekey INT, storeid STRING, storename STRING, city STRING, province STRING,

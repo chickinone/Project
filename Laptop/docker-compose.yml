@@ -1,6 +1,9 @@
 version: "3.8"
 
 services:
+  # ======================
+  # Zookeeper + Kafka
+  # ======================
   zookeeper:
     image: confluentinc/cp-zookeeper:7.5.0
     container_name: flink-zookeeper
@@ -22,10 +25,11 @@ services:
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
-    networks:
-      - flink_net
+    networks: [flink_net]
 
-
+  # ======================
+  # Postgres + Adminer
+  # ======================
   postgres:
     image: postgres:15
     container_name: flink-postgres
@@ -33,6 +37,7 @@ services:
       POSTGRES_DB: laptopdb
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: admin123
+    command: ["postgres", "-c", "max_connections=500"]
     volumes:
       - ./FlinkPostgres/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
     ports: ["5432:5432"]
@@ -47,6 +52,9 @@ services:
     networks: [flink_net]
     restart: unless-stopped
 
+  # ======================
+  # Flink Cluster
+  # ======================
   jobmanager:
     image: flink:1.17
     container_name: flink-jobmanager
@@ -54,12 +62,11 @@ services:
     environment:
       - JOB_MANAGER_RPC_ADDRESS=jobmanager
     ports:
-      - "8081:8081"   # Flink Web UI
-      - "6123:6123"   # RPC
+      - "8081:8081"
+      - "6123:6123"
     volumes:
-      - ./FlinkPostgres/flink/flink-conf.yaml:/opt/flink/conf/flink-conf.yaml    # cấu hình cluster
-      - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib                           # JAR để pipeline.jars tham chiếu
-      # Mount TỪNG file connector vào /opt/flink/lib (không đè cả thư mục)
+      - ./FlinkPostgres/flink/flink-conf.yaml:/opt/flink/conf/flink-conf.yaml
+      - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib
       - ./FlinkPostgres/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar:/opt/flink/lib/flink-sql-connector-kafka-1.17.0.jar
       - ./FlinkPostgres/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar:/opt/flink/lib/flink-connector-jdbc-3.1.1-1.17.jar
       - ./FlinkPostgres/flink/usrlib/postgresql-42.6.0.jar:/opt/flink/lib/postgresql-42.6.0.jar
@@ -84,7 +91,6 @@ services:
     networks: [flink_net]
     restart: unless-stopped
 
-  # Submitter có Python3 + PyFlink
   flink-job:
     build:
       context: ./FlinkPostgres/flink
@@ -94,7 +100,7 @@ services:
     command: bash -lc "/opt/flink/bin/flink run -m jobmanager:8081 -Dpython.client.executable=/usr/bin/python3 -Dpython.executable=/usr/bin/python3 -py /opt/flink/flink_job.py -d && tail -f /dev/null"
     volumes:
       - ./FlinkPostgres/flink/flink_job.py:/opt/flink/flink_job.py
-      - ./FlinkPostgres/flink/pyflink-conf.yaml:/opt/flink/conf/pyflink-conf.yaml # (tùy chọn, đã set -D ở trên)
+      - ./FlinkPostgres/flink/pyflink-conf.yaml:/opt/flink/conf/pyflink-conf.yaml
       - ./FlinkPostgres/flink/usrlib:/opt/flink/usrlib
       - ./FlinkPostgres/flink/usrlib/flink-sql-connector-kafka-1.17.0.jar:/opt/flink/lib/flink-sql-connector-kafka-1.17.0.jar
       - ./FlinkPostgres/flink/usrlib/flink-connector-jdbc-3.1.1-1.17.jar:/opt/flink/lib/flink-connector-jdbc-3.1.1-1.17.jar
@@ -103,7 +109,6 @@ services:
     networks: [flink_net]
     restart: "no"
 
-  # (tuỳ chọn) Producer CSV -> Kafka
   log_generator:
     build:
       context: ./log_generator
@@ -114,6 +119,56 @@ services:
       - ./log_generator/data:/app/data
     networks: [flink_net]
     restart: unless-stopped
+
+  # ======================
+  # Airflow
+  # ======================
+  airflow-db:
+    image: postgres:13
+    container_name: airflow-db
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    volumes:
+      - ./airflow/db:/var/lib/postgresql/data
+    networks: [flink_net]
+
+  airflow-webserver:
+    image: apache/airflow:2.10.2
+    container_name: airflow-webserver
+    depends_on:
+      - airflow-db
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@airflow-db/airflow
+      - AIRFLOW__CORE__FERNET_KEY=hucgSaAtVwILAnLBW7I6J0BAbcZF30CCDPFds0wjJmM=
+      - AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION=False
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+    ports:
+      - "8082:8080"    # Airflow UI (dùng cổng khác adminer tránh trùng)
+    command: webserver
+    networks: [flink_net]
+
+  airflow-scheduler:
+    image: apache/airflow:2.10.2
+    container_name: airflow-scheduler
+    depends_on:
+      - airflow-db
+      - airflow-webserver
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@airflow-db/airflow
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+    command: scheduler
+    networks: [flink_net]
 
 networks:
   flink_net: {}

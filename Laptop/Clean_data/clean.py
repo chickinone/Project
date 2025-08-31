@@ -1,11 +1,9 @@
 import pandas as pd
 import os
 
-# === 1. Merge các file CSV lại ===
-# Thư mục chứa các file gốc
 data_folder = "D:/Laptop/Data"
 
-# Danh sách file cần merge
+
 file_list = [
     "laptop_data.csv",
     "cpu_specs.csv",
@@ -16,16 +14,16 @@ file_list = [
     "Sound.csv"
 ]
 
-# Tạo đường dẫn đầy đủ
+
 full_paths = [os.path.join(data_folder, filename) for filename in file_list]
 
-# Đọc tất cả file thành DataFrame
+
 dataframes = {
     os.path.basename(path): pd.read_csv(path, encoding='utf-8-sig')
     for path in full_paths
 }
 
-# Gộp dữ liệu
+
 main_df = dataframes["laptop_data.csv"]
 for filename, df in dataframes.items():
     if filename != "laptop_data.csv":
@@ -74,15 +72,13 @@ rename_dict = {
 }
 df.rename(columns=rename_dict, inplace=True)
 
-# Thay thế toàn bộ giá trị thiếu bằng số 0
 df.replace("", 0, inplace=True)
 df.fillna(0, inplace=True)
 
-# Lọc lại dữ liệu: chỉ giữ dòng có giá trị hợp lệ cho 'price' và 'link'
 df = df[df['price'].notnull()]
 df = df[df['link'].notnull() & (df['link'].astype(str).str.strip() != "")]
 
-# Ghi file đã làm sạch
+
 cleaned_output_path = os.path.join(data_output, "cleaned_laptop_data.csv")
 df.to_csv(cleaned_output_path, index=False, encoding='utf-8-sig')
-print(f"✅ Data cleaned! File saved at: {cleaned_output_path}")
+print(f"Data cleaned! File saved at: {cleaned_output_path}")
